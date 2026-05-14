@@ -1,0 +1,1514 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adaptive Study Platform</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+
+        h1 {
+            color: #667eea;
+            margin-bottom: 10px;
+            font-size: 2.5em;
+        }
+
+        .subtitle {
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 1.1em;
+        }
+
+        .screen {
+            display: none;
+        }
+
+        .screen.active {
+            display: block;
+        }
+
+        .section {
+            margin-bottom: 30px;
+        }
+
+        .section-title {
+            font-size: 1.3em;
+            color: #333;
+            margin-bottom: 15px;
+            font-weight: 600;
+        }
+
+        .topic-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .checkbox-label {
+            display: flex;
+            align-items: center;
+            padding: 12px;
+            background: #f8f9fa;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .checkbox-label:hover {
+            background: #e9ecef;
+            transform: translateY(-2px);
+        }
+
+        .checkbox-label input[type="checkbox"] {
+            margin-right: 10px;
+            width: 18px;
+            height: 18px;
+            cursor: pointer;
+        }
+
+        .slider-container {
+            margin: 20px 0;
+        }
+
+        .slider {
+            width: 100%;
+            height: 8px;
+            border-radius: 5px;
+            background: #ddd;
+            outline: none;
+            -webkit-appearance: none;
+        }
+
+        .slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 24px;
+            height: 24px;
+            border-radius: 50%;
+            background: #667eea;
+            cursor: pointer;
+        }
+
+        .slider::-moz-range-thumb {
+            width: 24px;
+            height: 24px;
+            border-radius: 50%;
+            background: #667eea;
+            cursor: pointer;
+            border: none;
+        }
+
+        .slider-value {
+            text-align: center;
+            font-size: 1.5em;
+            color: #667eea;
+            font-weight: bold;
+            margin-top: 10px;
+        }
+
+        .btn {
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            border-radius: 10px;
+            font-size: 1.1em;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-weight: 600;
+        }
+
+        .btn:hover {
+            background: #5568d3;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+
+        .btn:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .btn-secondary {
+            background: #6c757d;
+            margin-left: 10px;
+        }
+
+        .btn-secondary:hover {
+            background: #5a6268;
+        }
+
+        .question-container {
+            background: #f8f9fa;
+            padding: 30px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+        }
+
+        .question-header {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 20px;
+            color: #666;
+            font-size: 0.9em;
+        }
+
+        .question-text {
+            font-size: 1.3em;
+            color: #333;
+            margin-bottom: 25px;
+            line-height: 1.6;
+        }
+
+        .options {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .option {
+            padding: 15px 20px;
+            background: white;
+            border: 2px solid #dee2e6;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .option:hover {
+            border-color: #667eea;
+            transform: translateX(5px);
+        }
+
+        .option.selected {
+            border-color: #667eea;
+            background: #f0f3ff;
+        }
+
+        .option.correct {
+            border-color: #28a745;
+            background: #d4edda;
+        }
+
+        .option.incorrect {
+            border-color: #dc3545;
+            background: #f8d7da;
+        }
+
+        .matching-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+
+        .matching-column {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .matching-item {
+            padding: 15px;
+            background: white;
+            border: 2px solid #dee2e6;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.2s;
+            user-select: none;
+        }
+
+        .matching-item:hover {
+            border-color: #667eea;
+        }
+
+        .matching-item.selected {
+            border-color: #667eea;
+            background: #f0f3ff;
+            box-shadow: 0 0 10px rgba(102, 126, 234, 0.3);
+        }
+
+        .matching-item.matched {
+            border-color: #28a745;
+            background: #d4edda;
+            cursor: default;
+        }
+
+        .matching-item.matched-wrong {
+            border-color: #dc3545;
+            background: #f8d7da;
+        }
+
+        .fill-blank-input {
+            width: 100%;
+            padding: 15px;
+            font-size: 1.1em;
+            border: 2px solid #dee2e6;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+
+        .fill-blank-input:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .feedback {
+            margin-top: 20px;
+            padding: 20px;
+            border-radius: 10px;
+            display: none;
+        }
+
+        .feedback.show {
+            display: block;
+        }
+
+        .feedback.correct {
+            background: #d4edda;
+            border: 2px solid #28a745;
+            color: #155724;
+        }
+
+        .feedback.incorrect {
+            background: #f8d7da;
+            border: 2px solid #dc3545;
+            color: #721c24;
+        }
+
+        .feedback-title {
+            font-weight: bold;
+            font-size: 1.2em;
+            margin-bottom: 10px;
+        }
+
+        .progress-bar {
+            width: 100%;
+            height: 30px;
+            background: #e9ecef;
+            border-radius: 15px;
+            overflow: hidden;
+            margin-bottom: 20px;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+            transition: width 0.3s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .stat-card {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+        }
+
+        .stat-value {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #667eea;
+        }
+
+        .stat-label {
+            color: #666;
+            margin-top: 5px;
+        }
+
+        .code-display {
+            background: #2d2d2d;
+            color: #f8f8f2;
+            padding: 20px;
+            border-radius: 10px;
+            font-family: 'Courier New', monospace;
+            font-size: 1.1em;
+            margin: 20px 0;
+            word-break: break-all;
+            text-align: center;
+        }
+
+        .input-group {
+            margin: 20px 0;
+        }
+
+        .input-group label {
+            display: block;
+            margin-bottom: 8px;
+            color: #333;
+            font-weight: 600;
+        }
+
+        .input-group input {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #dee2e6;
+            border-radius: 8px;
+            font-size: 1em;
+        }
+
+        .input-group input:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .alert {
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+
+        .alert-info {
+            background: #d1ecf1;
+            border: 1px solid #bee5eb;
+            color: #0c5460;
+        }
+
+        .alert-success {
+            background: #d4edda;
+            border: 1px solid #c3e6cb;
+            color: #155724;
+        }
+
+        .alert-warning {
+            background: #fff3cd;
+            border: 1px solid #ffeaa7;
+            color: #856404;
+        }
+
+        #fileUpload {
+            display: none;
+        }
+
+        .file-upload-label {
+            display: inline-block;
+            padding: 15px 30px;
+            background: #28a745;
+            color: white;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-weight: 600;
+        }
+
+        .file-upload-label:hover {
+            background: #218838;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(40, 167, 69, 0.4);
+        }
+
+        .qbank-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .qbank-card {
+            background: #f8f9fa;
+            border: 2px solid #dee2e6;
+            border-radius: 15px;
+            padding: 25px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .qbank-card:hover {
+            border-color: #667eea;
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(102, 126, 234, 0.2);
+        }
+
+        .qbank-card-title {
+            font-size: 1.3em;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        .qbank-card-description {
+            color: #666;
+            font-size: 0.95em;
+            line-height: 1.5;
+        }
+
+        .qbank-card-icon {
+            font-size: 2.5em;
+            margin-bottom: 15px;
+            text-align: center;
+        }
+
+        .difficulty-badge {
+            display: inline-block;
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 0.85em;
+            font-weight: 600;
+        }
+
+        .difficulty-easy {
+            background: #d4edda;
+            color: #155724;
+        }
+
+        .difficulty-medium {
+            background: #fff3cd;
+            color: #856404;
+        }
+
+        .difficulty-hard {
+            background: #f8d7da;
+            color: #721c24;
+        }
+
+        .connection-line {
+            stroke: #667eea;
+            stroke-width: 3;
+            fill: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Setup Screen -->
+        <div id="setupScreen" class="screen active">
+            <h1>Adaptive Study Platform</h1>
+            <p class="subtitle">Master your material with intelligent practice</p>
+
+            <div class="section">
+                <div class="section-title">Select Your Question Bank</div>
+                <div id="questionBankSelection"></div>
+                <div id="loadingStatus" style="margin-top: 20px; display: none;">
+                    <div style="text-align: center; color: #667eea;">
+                        <div style="font-size: 2em; margin-bottom: 10px;">⏳</div>
+                        <div style="font-weight: bold;">Loading questions...</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="section">
+                <div class="section-title">Or: Resume Previous Session</div>
+                <div class="input-group">
+                    <label>Enter your progress code:</label>
+                    <input type="text" id="progressCodeInput" placeholder="e.g., STUDY-E12M8H3-ACC89-TOPICS...">
+                </div>
+                <button class="btn" onclick="loadProgressCode()">Load Progress</button>
+            </div>
+        </div>
+
+        <!-- Configuration Screen -->
+        <div id="configScreen" class="screen">
+            <h1>Configure Your Study Session</h1>
+            <p class="subtitle" id="currentBankName" style="color: #667eea; font-weight: 600;"></p>
+            
+            <div class="section">
+                <div class="section-title">Select Topics</div>
+                <div id="topicGrid" class="topic-grid"></div>
+            </div>
+
+            <div class="section">
+                <div class="section-title">Select Question Types</div>
+                <div id="questionTypeGrid" class="topic-grid">
+                    <label class="checkbox-label">
+                        <input type="checkbox" value="Multiple Choice" checked>
+                        <span>Multiple Choice</span>
+                    </label>
+                    <label class="checkbox-label">
+                        <input type="checkbox" value="True/False" checked>
+                        <span>True/False</span>
+                    </label>
+                    <label class="checkbox-label">
+                        <input type="checkbox" value="Matching" checked>
+                        <span>Matching</span>
+                    </label>
+                    <label class="checkbox-label">
+                        <input type="checkbox" value="Fill-in-the-Blank" checked>
+                        <span>Fill-in-the-Blank</span>
+                    </label>
+                </div>
+            </div>
+
+            <div class="section">
+                <div class="section-title">Number of Questions</div>
+                <div class="slider-container">
+                    <input type="range" min="5" max="50" value="10" class="slider" id="questionCount">
+                    <div class="slider-value"><span id="questionCountValue">10</span> questions</div>
+                </div>
+            </div>
+
+            <div class="section">
+                <button class="btn" onclick="startQuiz()">Start Practice</button>
+                <button class="btn btn-secondary" onclick="showStats()">View Stats</button>
+                <button class="btn btn-secondary" onclick="backToQuestionBanks()">Change Question Bank</button>
+            </div>
+        </div>
+
+        <!-- Quiz Screen -->
+        <div id="quizScreen" class="screen">
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressBar">0%</div>
+            </div>
+
+            <div id="questionDisplay"></div>
+
+            <div style="margin-top: 30px;">
+                <button class="btn" id="submitBtn" onclick="submitAnswer()">Submit Answer</button>
+                <button class="btn btn-secondary" id="nextBtn" onclick="nextQuestion()" style="display: none;">Next Question</button>
+            </div>
+        </div>
+
+        <!-- Results Screen -->
+        <div id="resultsScreen" class="screen">
+            <h1>Session Complete! 🎉</h1>
+            
+            <div class="stats-grid" id="resultsStats"></div>
+
+            <div class="section">
+                <div class="section-title">Your Progress Code</div>
+                <p>Save this code to resume your progress on any device:</p>
+                <div class="code-display" id="progressCode"></div>
+                <button class="btn" onclick="copyProgressCode()">📋 Copy Code</button>
+            </div>
+
+            <div class="section">
+                <button class="btn" onclick="startNewSession()">New Session</button>
+                <button class="btn btn-secondary" onclick="showDetailedStats()">Detailed Stats</button>
+            </div>
+        </div>
+
+        <!-- Stats Screen -->
+        <div id="statsScreen" class="screen">
+            <h1>Your Statistics</h1>
+            
+            <div class="stats-grid" id="overallStats"></div>
+
+            <div class="section">
+                <div class="section-title">Performance by Topic</div>
+                <div id="topicStats"></div>
+            </div>
+
+            <div class="section">
+                <div class="section-title">Performance by Difficulty</div>
+                <div id="difficultyStats"></div>
+            </div>
+
+            <div class="section">
+                <button class="btn" onclick="backToConfig()">Back</button>
+                <button class="btn btn-secondary" onclick="resetAllProgress()">Reset All Progress</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // ========================================
+        // INSTRUCTOR CONFIGURATION
+        // ========================================
+        // Add your question banks here! Just copy the pattern below.
+        // 'file' should match the CSV filename you uploaded to GitHub
+        
+        const questionBanks = [
+            {
+                name: "Microbiology Practice - All Topics",
+                file: "question-bank-template.csv",
+                description: "Cell structure, Gram staining, Bacterial growth, Aseptic technique, Metabolism"
+            },
+            {
+                name: "Microbiology Exam 1",
+                file: "microbio-exam1.csv",
+                description: "Cell structure, Gram staining, Aseptic technique"
+            },
+            {
+                name: "Microbiology Exam 2",
+                file: "microbio-exam2.csv",
+                description: "Bacterial growth, Metabolism, Genetics"
+            }
+            // Add more question banks here following the same pattern!
+            // Just copy the block above, paste below, and change the values
+        ];
+        
+        // ========================================
+        // END INSTRUCTOR CONFIGURATION
+        // ========================================
+
+        // Global state
+        let questionBank = [];
+        let availableTopics = [];
+        let currentQuestionBank = null;
+        let currentSession = {
+            questions: [],
+            currentIndex: 0,
+            answers: [],
+            selectedTopics: [],
+            questionCount: 10
+        };
+        let userProgress = {
+            totalQuestions: 0,
+            correctAnswers: 0,
+            topicProgress: {}, // {topic: {easy: {correct, total}, medium: {}, hard: {}}}
+            currentDifficulty: {} // {topic: 'easy'|'medium'|'hard'}
+        };
+
+        // Load progress from localStorage on page load
+        window.onload = function() {
+            const saved = localStorage.getItem('studyPlatformProgress');
+            if (saved) {
+                try {
+                    userProgress = JSON.parse(saved);
+                } catch (e) {
+                    console.error('Error loading saved progress:', e);
+                }
+            }
+            
+            // Setup question bank selection screen
+            setupQuestionBankSelection();
+        };
+
+        // Save progress to localStorage
+        function saveProgress() {
+            localStorage.setItem('studyPlatformProgress', JSON.stringify(userProgress));
+        }
+
+        // Setup question bank selection screen
+        function setupQuestionBankSelection() {
+            const container = document.getElementById('questionBankSelection');
+            
+            if (questionBanks.length === 0) {
+                container.innerHTML = `
+                    <div class="alert alert-warning">
+                        <strong>No question banks configured.</strong><br>
+                        Please ask your instructor to add question banks to the platform.
+                    </div>
+                `;
+                return;
+            }
+
+            let html = '<div class="qbank-grid">';
+            
+            questionBanks.forEach((bank, index) => {
+                html += `
+                    <div class="qbank-card" onclick="loadQuestionBank(${index})">
+                        <div class="qbank-card-icon">📚</div>
+                        <div class="qbank-card-title">${bank.name}</div>
+                        <div class="qbank-card-description">${bank.description}</div>
+                    </div>
+                `;
+            });
+            
+            html += '</div>';
+            container.innerHTML = html;
+        }
+
+        // Load question bank from GitHub
+        async function loadQuestionBank(index) {
+            const bank = questionBanks[index];
+            currentQuestionBank = bank;
+            
+            // Show loading status
+            document.getElementById('questionBankSelection').style.display = 'none';
+            document.getElementById('loadingStatus').style.display = 'block';
+            
+            try {
+                // Get the current URL to construct the CSV path
+                const baseUrl = window.location.href.substring(0, window.location.href.lastIndexOf('/'));
+                const csvUrl = `${baseUrl}/${bank.file}`;
+                
+                const response = await fetch(csvUrl);
+                
+                if (!response.ok) {
+                    throw new Error(`Failed to load ${bank.file}`);
+                }
+                
+                const csv = await response.text();
+                parseCSV(csv);
+                
+            } catch (error) {
+                console.error('Error loading question bank:', error);
+                document.getElementById('loadingStatus').innerHTML = `
+                    <div class="alert alert-warning">
+                        <strong>Error loading question bank!</strong><br>
+                        File: ${bank.file}<br>
+                        Make sure this file is uploaded to your GitHub repository in the same folder as the HTML file.
+                        <br><br>
+                        <button class="btn" onclick="resetToSelection()">Go Back</button>
+                    </div>
+                `;
+            }
+        }
+
+        // Reset to question bank selection
+        function resetToSelection() {
+            document.getElementById('questionBankSelection').style.display = 'block';
+            document.getElementById('loadingStatus').style.display = 'none';
+            document.getElementById('loadingStatus').innerHTML = `
+                <div style="text-align: center; color: #667eea;">
+                    <div style="font-size: 2em; margin-bottom: 10px;">⏳</div>
+                    <div style="font-weight: bold;">Loading questions...</div>
+                </div>
+            `;
+        }
+
+        // Parse CSV
+        function parseCSV(csv) {
+            const lines = csv.split('\n').filter(line => line.trim());
+            const headers = lines[0].split(',').map(h => h.trim());
+            
+            questionBank = [];
+            const topicSet = new Set();
+
+            for (let i = 1; i < lines.length; i++) {
+                const values = parseCSVLine(lines[i]);
+                if (values.length < headers.length) continue;
+
+                const question = {};
+                headers.forEach((header, index) => {
+                    question[header] = values[index] ? values[index].trim() : '';
+                });
+
+                questionBank.push(question);
+                topicSet.add(question.Topic);
+            }
+
+            availableTopics = Array.from(topicSet).sort();
+            
+            // Initialize progress for new topics
+            availableTopics.forEach(topic => {
+                if (!userProgress.topicProgress[topic]) {
+                    userProgress.topicProgress[topic] = {
+                        Easy: {correct: 0, total: 0},
+                        Medium: {correct: 0, total: 0},
+                        Hard: {correct: 0, total: 0}
+                    };
+                }
+                if (!userProgress.currentDifficulty[topic]) {
+                    userProgress.currentDifficulty[topic] = 'Easy';
+                }
+            });
+
+            document.getElementById('loadingStatus').innerHTML = `
+                <div class="alert alert-success">
+                    <strong>✓ Success!</strong><br>
+                    Loaded ${questionBank.length} questions across ${availableTopics.length} topics
+                    <br>from <strong>${currentQuestionBank.name}</strong>
+                </div>
+            `;
+            
+            setTimeout(() => {
+                showScreen('configScreen');
+                setupTopicSelection();
+                resetToSelection(); // Reset for next time
+            }, 1500);
+        }
+
+        // Parse CSV line handling quoted values
+        function parseCSVLine(line) {
+            const values = [];
+            let current = '';
+            let inQuotes = false;
+
+            for (let i = 0; i < line.length; i++) {
+                const char = line[i];
+                if (char === '"') {
+                    inQuotes = !inQuotes;
+                } else if (char === ',' && !inQuotes) {
+                    values.push(current);
+                    current = '';
+                } else {
+                    current += char;
+                }
+            }
+            values.push(current);
+
+            return values;
+        }
+
+        // Setup topic selection checkboxes
+        function setupTopicSelection() {
+            const grid = document.getElementById('topicGrid');
+            grid.innerHTML = '';
+
+            availableTopics.forEach(topic => {
+                const label = document.createElement('label');
+                label.className = 'checkbox-label';
+                label.innerHTML = `
+                    <input type="checkbox" value="${topic}" checked>
+                    <span>${topic}</span>
+                `;
+                grid.appendChild(label);
+            });
+
+            // Show current question bank name
+            if (currentQuestionBank) {
+                document.getElementById('currentBankName').textContent = 
+                    `Question Bank: ${currentQuestionBank.name}`;
+            }
+        }
+
+        // Question count slider
+        document.getElementById('questionCount').addEventListener('input', function(e) {
+            document.getElementById('questionCountValue').textContent = e.target.value;
+        });
+
+        // Start quiz
+        function startQuiz() {
+            const topicCheckboxes = document.querySelectorAll('#topicGrid input[type="checkbox"]:checked');
+            currentSession.selectedTopics = Array.from(topicCheckboxes).map(cb => cb.value);
+
+            const typeCheckboxes = document.querySelectorAll('#questionTypeGrid input[type="checkbox"]:checked');
+            const selectedTypes = Array.from(typeCheckboxes).map(cb => cb.value);
+
+            if (currentSession.selectedTopics.length === 0) {
+                alert('Please select at least one topic!');
+                return;
+            }
+
+            if (selectedTypes.length === 0) {
+                alert('Please select at least one question type!');
+                return;
+            }
+
+            currentSession.questionCount = parseInt(document.getElementById('questionCount').value);
+            currentSession.questions = selectQuestions(selectedTypes);
+            currentSession.currentIndex = 0;
+            currentSession.answers = [];
+
+            if (currentSession.questions.length === 0) {
+                alert('No questions available for the selected topics, question types, and difficulty levels!');
+                return;
+            }
+
+            showScreen('quizScreen');
+            displayQuestion();
+        }
+
+        // Select questions based on topics, question types, and adaptive difficulty
+        function selectQuestions(selectedTypes) {
+            const questions = [];
+            const questionsPerTopic = Math.ceil(currentSession.questionCount / currentSession.selectedTopics.length);
+
+            currentSession.selectedTopics.forEach(topic => {
+                const difficulty = userProgress.currentDifficulty[topic] || 'Easy';
+                const topicQuestions = questionBank.filter(q => 
+                    q.Topic === topic && 
+                    q.Difficulty === difficulty &&
+                    selectedTypes.includes(q.QuestionType)
+                );
+
+                // Shuffle and take needed amount
+                const shuffled = topicQuestions.sort(() => Math.random() - 0.5);
+                questions.push(...shuffled.slice(0, questionsPerTopic));
+            });
+
+            // Shuffle final question order
+            return questions.sort(() => Math.random() - 0.5).slice(0, currentSession.questionCount);
+        }
+
+        // Display current question
+        function displayQuestion() {
+            const question = currentSession.questions[currentSession.currentIndex];
+            const progress = ((currentSession.currentIndex + 1) / currentSession.questions.length) * 100;
+            
+            document.getElementById('progressBar').style.width = progress + '%';
+            document.getElementById('progressBar').textContent = 
+                `${currentSession.currentIndex + 1} / ${currentSession.questions.length}`;
+
+            const display = document.getElementById('questionDisplay');
+            const type = question.QuestionType;
+
+            let html = `
+                <div class="question-container">
+                    <div class="question-header">
+                        <span>Topic: <strong>${question.Topic}</strong></span>
+                        <span class="difficulty-badge difficulty-${question.Difficulty.toLowerCase()}">
+                            ${question.Difficulty}
+                        </span>
+                    </div>
+                    <div class="question-text">${question.Question}</div>
+            `;
+
+            if (type === 'Multiple Choice') {
+                html += '<div class="options">';
+                ['OptionA', 'OptionB', 'OptionC', 'OptionD'].forEach((opt, idx) => {
+                    if (question[opt]) {
+                        html += `
+                            <div class="option" onclick="selectOption(this, '${String.fromCharCode(65 + idx)}')">
+                                <strong>${String.fromCharCode(65 + idx)}.</strong> ${question[opt]}
+                            </div>
+                        `;
+                    }
+                });
+                html += '</div>';
+            } else if (type === 'True/False') {
+                html += `
+                    <div class="options">
+                        <div class="option" onclick="selectOption(this, 'True')">
+                            <strong>True</strong>
+                        </div>
+                        <div class="option" onclick="selectOption(this, 'False')">
+                            <strong>False</strong>
+                        </div>
+                    </div>
+                `;
+            } else if (type === 'Fill-in-the-Blank') {
+                html += `
+                    <input type="text" class="fill-blank-input" id="fillBlankAnswer" 
+                           placeholder="Type your answer here...">
+                `;
+            } else if (type === 'Matching') {
+                html += setupMatchingQuestion(question);
+            }
+
+            html += `
+                    <div class="feedback" id="feedback">
+                        <div class="feedback-title" id="feedbackTitle"></div>
+                        <div id="feedbackText"></div>
+                    </div>
+                </div>
+            `;
+
+            display.innerHTML = html;
+            
+            // Reset buttons
+            document.getElementById('submitBtn').style.display = 'inline-block';
+            document.getElementById('nextBtn').style.display = 'none';
+            document.getElementById('submitBtn').disabled = false;
+        }
+
+        // Setup matching question
+        function setupMatchingQuestion(question) {
+            const [terms, definitions] = question.MatchingPairs.split('::');
+            const termList = terms.split('|');
+            const defList = definitions.split('|');
+            
+            // Shuffle definitions
+            const shuffledDefs = defList.sort(() => Math.random() - 0.5);
+
+            let html = '<div class="matching-container">';
+            html += '<div class="matching-column">';
+            termList.forEach((term, idx) => {
+                html += `
+                    <div class="matching-item" data-term="${term.trim()}" 
+                         onclick="selectMatchingItem(this, 'left')">
+                        ${term.trim()}
+                    </div>
+                `;
+            });
+            html += '</div><div class="matching-column">';
+            shuffledDefs.forEach((def, idx) => {
+                html += `
+                    <div class="matching-item" data-def="${def.trim()}" 
+                         onclick="selectMatchingItem(this, 'right')">
+                        ${def.trim()}
+                    </div>
+                `;
+            });
+            html += '</div></div>';
+
+            return html;
+        }
+
+        // Matching question state
+        let matchingState = {
+            selectedLeft: null,
+            selectedRight: null,
+            matches: []
+        };
+
+        function selectMatchingItem(element, side) {
+            if (element.classList.contains('matched')) return;
+
+            const feedback = document.getElementById('feedback');
+            if (feedback.classList.contains('show')) return;
+
+            if (side === 'left') {
+                // Deselect previous left selection
+                if (matchingState.selectedLeft) {
+                    matchingState.selectedLeft.classList.remove('selected');
+                }
+                matchingState.selectedLeft = element;
+                element.classList.add('selected');
+            } else {
+                // Deselect previous right selection
+                if (matchingState.selectedRight) {
+                    matchingState.selectedRight.classList.remove('selected');
+                }
+                matchingState.selectedRight = element;
+                element.classList.add('selected');
+            }
+
+            // If both selected, record match
+            if (matchingState.selectedLeft && matchingState.selectedRight) {
+                const term = matchingState.selectedLeft.dataset.term;
+                const def = matchingState.selectedRight.dataset.def;
+                
+                matchingState.matches.push({term, def});
+
+                matchingState.selectedLeft.classList.add('matched');
+                matchingState.selectedRight.classList.add('matched');
+                matchingState.selectedLeft.classList.remove('selected');
+                matchingState.selectedRight.classList.remove('selected');
+
+                matchingState.selectedLeft = null;
+                matchingState.selectedRight = null;
+
+                // Check if all matched
+                const allItems = document.querySelectorAll('.matching-item');
+                const allMatched = Array.from(allItems).every(item => 
+                    item.classList.contains('matched')
+                );
+
+                if (allMatched) {
+                    document.getElementById('submitBtn').disabled = false;
+                }
+            }
+        }
+
+        // Select option for MC/TF
+        let selectedAnswer = null;
+
+        function selectOption(element, answer) {
+            const feedback = document.getElementById('feedback');
+            if (feedback.classList.contains('show')) return;
+
+            document.querySelectorAll('.option').forEach(opt => {
+                opt.classList.remove('selected');
+            });
+            element.classList.add('selected');
+            selectedAnswer = answer;
+        }
+
+        // Submit answer
+        function submitAnswer() {
+            const question = currentSession.questions[currentSession.currentIndex];
+            const type = question.QuestionType;
+            let userAnswer = null;
+            let isCorrect = false;
+
+            if (type === 'Multiple Choice' || type === 'True/False') {
+                userAnswer = selectedAnswer;
+                isCorrect = userAnswer === question.CorrectAnswer;
+            } else if (type === 'Fill-in-the-Blank') {
+                userAnswer = document.getElementById('fillBlankAnswer').value.trim();
+                const correctAnswers = question.CorrectAnswer.split('|').map(a => a.trim().toLowerCase());
+                isCorrect = correctAnswers.includes(userAnswer.toLowerCase());
+            } else if (type === 'Matching') {
+                userAnswer = matchingState.matches;
+                isCorrect = checkMatchingAnswer(question);
+            }
+
+            if (!userAnswer || (type === 'Matching' && matchingState.matches.length === 0)) {
+                alert('Please provide an answer!');
+                return;
+            }
+
+            // Record answer
+            currentSession.answers.push({
+                question: question,
+                userAnswer: userAnswer,
+                correct: isCorrect
+            });
+
+            // Update progress
+            updateProgress(question.Topic, question.Difficulty, isCorrect);
+
+            // Show feedback
+            showFeedback(isCorrect, question);
+
+            // Update buttons
+            document.getElementById('submitBtn').style.display = 'none';
+            document.getElementById('nextBtn').style.display = 'inline-block';
+        }
+
+        // Check matching answer
+        function checkMatchingAnswer(question) {
+            const correctPairs = question.CorrectAnswer.split(',').map(pair => {
+                const [term, def] = pair.split('-').map(s => s.trim());
+                return {term, def};
+            });
+
+            let allCorrect = true;
+            matchingState.matches.forEach(match => {
+                const isCorrect = correctPairs.some(pair => 
+                    pair.term === match.term && pair.def === match.def
+                );
+
+                const leftItem = document.querySelector(`.matching-item[data-term="${match.term}"]`);
+                const rightItem = document.querySelector(`.matching-item[data-def="${match.def}"]`);
+
+                if (!isCorrect) {
+                    leftItem.classList.add('matched-wrong');
+                    rightItem.classList.add('matched-wrong');
+                    allCorrect = false;
+                }
+            });
+
+            return allCorrect;
+        }
+
+        // Update user progress
+        function updateProgress(topic, difficulty, correct) {
+            userProgress.totalQuestions++;
+            if (correct) userProgress.correctAnswers++;
+
+            if (!userProgress.topicProgress[topic]) {
+                userProgress.topicProgress[topic] = {
+                    Easy: {correct: 0, total: 0},
+                    Medium: {correct: 0, total: 0},
+                    Hard: {correct: 0, total: 0}
+                };
+            }
+
+            userProgress.topicProgress[topic][difficulty].total++;
+            if (correct) {
+                userProgress.topicProgress[topic][difficulty].correct++;
+            }
+
+            // Check for difficulty progression (70% threshold)
+            const topicStats = userProgress.topicProgress[topic][difficulty];
+            if (topicStats.total >= 5) { // Need at least 5 questions
+                const accuracy = (topicStats.correct / topicStats.total) * 100;
+                
+                if (accuracy >= 70 && difficulty === 'Easy') {
+                    userProgress.currentDifficulty[topic] = 'Medium';
+                } else if (accuracy >= 70 && difficulty === 'Medium') {
+                    userProgress.currentDifficulty[topic] = 'Hard';
+                } else if (accuracy < 50 && difficulty === 'Hard') {
+                    userProgress.currentDifficulty[topic] = 'Medium';
+                } else if (accuracy < 50 && difficulty === 'Medium') {
+                    userProgress.currentDifficulty[topic] = 'Easy';
+                }
+            }
+
+            saveProgress();
+        }
+
+        // Show feedback
+        function showFeedback(correct, question) {
+            const feedback = document.getElementById('feedback');
+            const title = document.getElementById('feedbackTitle');
+            const text = document.getElementById('feedbackText');
+
+            feedback.className = 'feedback show ' + (correct ? 'correct' : 'incorrect');
+            title.textContent = correct ? '✓ Correct!' : '✗ Incorrect';
+            
+            let explanationHTML = question.Explanation;
+
+            // For fill-in-the-blank, show the acceptable answers
+            if (question.QuestionType === 'Fill-in-the-Blank') {
+                const acceptableAnswers = question.CorrectAnswer.split('|').map(a => a.trim());
+                explanationHTML = `
+                    <div style="margin-bottom: 15px;">
+                        <strong>Acceptable answer${acceptableAnswers.length > 1 ? 's' : ''}:</strong><br>
+                        ${acceptableAnswers.map(ans => `<span style="color: #28a745; font-weight: 600;">${ans}</span>`).join(' or ')}
+                    </div>
+                    ${question.Explanation}
+                `;
+            }
+
+            text.innerHTML = explanationHTML;
+
+            // Highlight correct answer for MC
+            if (question.QuestionType === 'Multiple Choice') {
+                const options = document.querySelectorAll('.option');
+                options.forEach(opt => {
+                    const letter = opt.textContent.trim()[0];
+                    if (letter === question.CorrectAnswer) {
+                        opt.classList.add('correct');
+                    } else if (opt.classList.contains('selected')) {
+                        opt.classList.add('incorrect');
+                    }
+                });
+            } else if (question.QuestionType === 'True/False') {
+                const options = document.querySelectorAll('.option');
+                options.forEach(opt => {
+                    if (opt.textContent.trim() === question.CorrectAnswer) {
+                        opt.classList.add('correct');
+                    } else if (opt.classList.contains('selected')) {
+                        opt.classList.add('incorrect');
+                    }
+                });
+            }
+        }
+
+        // Next question
+        function nextQuestion() {
+            currentSession.currentIndex++;
+            selectedAnswer = null;
+            matchingState = {selectedLeft: null, selectedRight: null, matches: []};
+
+            if (currentSession.currentIndex >= currentSession.questions.length) {
+                showResults();
+            } else {
+                displayQuestion();
+            }
+        }
+
+        // Show results
+        function showResults() {
+            const correct = currentSession.answers.filter(a => a.correct).length;
+            const total = currentSession.answers.length;
+            const percentage = Math.round((correct / total) * 100);
+
+            const statsHTML = `
+                <div class="stat-card">
+                    <div class="stat-value">${correct}/${total}</div>
+                    <div class="stat-label">Correct Answers</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">${percentage}%</div>
+                    <div class="stat-label">Accuracy</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">${userProgress.totalQuestions}</div>
+                    <div class="stat-label">Total Questions Answered</div>
+                </div>
+            `;
+
+            document.getElementById('resultsStats').innerHTML = statsHTML;
+            document.getElementById('progressCode').textContent = generateProgressCode();
+
+            showScreen('resultsScreen');
+        }
+
+        // Generate progress code
+        function generateProgressCode() {
+            const stats = Object.entries(userProgress.topicProgress).map(([topic, difficulties]) => {
+                const easy = difficulties.Easy.total;
+                const medium = difficulties.Medium.total;
+                const hard = difficulties.Hard.total;
+                return `${topic}:E${easy}M${medium}H${hard}`;
+            }).join('|');
+
+            const overall = `ACC${Math.round((userProgress.correctAnswers / userProgress.totalQuestions) * 100)}`;
+            
+            const code = `STUDY-${overall}-${stats}`;
+            return code;
+        }
+
+        // Copy progress code
+        function copyProgressCode() {
+            const code = document.getElementById('progressCode').textContent;
+            navigator.clipboard.writeText(code).then(() => {
+                alert('Progress code copied to clipboard!');
+            });
+        }
+
+        // Load progress code
+        function loadProgressCode() {
+            const code = document.getElementById('progressCodeInput').value.trim();
+            if (!code || !code.startsWith('STUDY-')) {
+                alert('Invalid progress code!');
+                return;
+            }
+
+            try {
+                const parts = code.split('-');
+                const accuracy = parseInt(parts[1].replace('ACC', ''));
+                const topicData = parts.slice(2).join('-').split('|');
+
+                const newProgress = {
+                    totalQuestions: 0,
+                    correctAnswers: 0,
+                    topicProgress: {},
+                    currentDifficulty: {}
+                };
+
+                topicData.forEach(topicStr => {
+                    const [topic, stats] = topicStr.split(':');
+                    const easyMatch = stats.match(/E(\d+)/);
+                    const mediumMatch = stats.match(/M(\d+)/);
+                    const hardMatch = stats.match(/H(\d+)/);
+
+                    const easy = easyMatch ? parseInt(easyMatch[1]) : 0;
+                    const medium = mediumMatch ? parseInt(mediumMatch[1]) : 0;
+                    const hard = hardMatch ? parseInt(hardMatch[1]) : 0;
+
+                    newProgress.topicProgress[topic] = {
+                        Easy: {correct: Math.round(easy * accuracy / 100), total: easy},
+                        Medium: {correct: Math.round(medium * accuracy / 100), total: medium},
+                        Hard: {correct: Math.round(hard * accuracy / 100), total: hard}
+                    };
+
+                    // Determine current difficulty
+                    if (hard > 0) {
+                        newProgress.currentDifficulty[topic] = 'Hard';
+                    } else if (medium > 0) {
+                        newProgress.currentDifficulty[topic] = 'Medium';
+                    } else {
+                        newProgress.currentDifficulty[topic] = 'Easy';
+                    }
+
+                    newProgress.totalQuestions += easy + medium + hard;
+                });
+
+                newProgress.correctAnswers = Math.round(newProgress.totalQuestions * accuracy / 100);
+
+                userProgress = newProgress;
+                saveProgress();
+
+                alert('Progress loaded successfully!');
+                document.getElementById('progressCodeInput').value = '';
+            } catch (e) {
+                alert('Error parsing progress code. Please check and try again.');
+                console.error(e);
+            }
+        }
+
+        // Show stats
+        function showStats() {
+            showDetailedStats();
+        }
+
+        function showDetailedStats() {
+            const overallAccuracy = userProgress.totalQuestions > 0 
+                ? Math.round((userProgress.correctAnswers / userProgress.totalQuestions) * 100) 
+                : 0;
+
+            const overallHTML = `
+                <div class="stat-card">
+                    <div class="stat-value">${userProgress.totalQuestions}</div>
+                    <div class="stat-label">Total Questions</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">${userProgress.correctAnswers}</div>
+                    <div class="stat-label">Correct Answers</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">${overallAccuracy}%</div>
+                    <div class="stat-label">Overall Accuracy</div>
+                </div>
+            `;
+
+            document.getElementById('overallStats').innerHTML = overallHTML;
+
+            // Topic stats
+            let topicHTML = '';
+            Object.entries(userProgress.topicProgress).forEach(([topic, difficulties]) => {
+                const totalCorrect = difficulties.Easy.correct + difficulties.Medium.correct + difficulties.Hard.correct;
+                const totalQuestions = difficulties.Easy.total + difficulties.Medium.total + difficulties.Hard.total;
+                const accuracy = totalQuestions > 0 ? Math.round((totalCorrect / totalQuestions) * 100) : 0;
+                const currentDiff = userProgress.currentDifficulty[topic] || 'Easy';
+
+                topicHTML += `
+                    <div class="stat-card">
+                        <div style="font-weight: bold; margin-bottom: 10px;">${topic}</div>
+                        <div class="stat-value">${accuracy}%</div>
+                        <div class="stat-label">${totalCorrect}/${totalQuestions} correct</div>
+                        <div style="margin-top: 10px;">
+                            <span class="difficulty-badge difficulty-${currentDiff.toLowerCase()}">
+                                Current: ${currentDiff}
+                            </span>
+                        </div>
+                    </div>
+                `;
+            });
+
+            document.getElementById('topicStats').innerHTML = topicHTML || '<p>No data yet. Start practicing!</p>';
+
+            // Difficulty stats
+            let diffStats = {Easy: {correct: 0, total: 0}, Medium: {correct: 0, total: 0}, Hard: {correct: 0, total: 0}};
+            Object.values(userProgress.topicProgress).forEach(difficulties => {
+                ['Easy', 'Medium', 'Hard'].forEach(diff => {
+                    diffStats[diff].correct += difficulties[diff].correct;
+                    diffStats[diff].total += difficulties[diff].total;
+                });
+            });
+
+            let diffHTML = '';
+            ['Easy', 'Medium', 'Hard'].forEach(diff => {
+                const accuracy = diffStats[diff].total > 0 
+                    ? Math.round((diffStats[diff].correct / diffStats[diff].total) * 100) 
+                    : 0;
+
+                diffHTML += `
+                    <div class="stat-card">
+                        <span class="difficulty-badge difficulty-${diff.toLowerCase()}">${diff}</span>
+                        <div class="stat-value">${accuracy}%</div>
+                        <div class="stat-label">${diffStats[diff].correct}/${diffStats[diff].total} correct</div>
+                    </div>
+                `;
+            });
+
+            document.getElementById('difficultyStats').innerHTML = diffHTML;
+
+            showScreen('statsScreen');
+        }
+
+        // Navigation functions
+        function showScreen(screenId) {
+            document.querySelectorAll('.screen').forEach(screen => {
+                screen.classList.remove('active');
+            });
+            document.getElementById(screenId).classList.add('active');
+        }
+
+        function startNewSession() {
+            showScreen('configScreen');
+        }
+
+        function backToConfig() {
+            showScreen('configScreen');
+        }
+
+        function backToQuestionBanks() {
+            showScreen('setupScreen');
+        }
+
+        function resetAllProgress() {
+            if (confirm('Are you sure you want to reset ALL your progress? This cannot be undone!')) {
+                userProgress = {
+                    totalQuestions: 0,
+                    correctAnswers: 0,
+                    topicProgress: {},
+                    currentDifficulty: {}
+                };
+                
+                // Reinitialize for current topics
+                availableTopics.forEach(topic => {
+                    userProgress.topicProgress[topic] = {
+                        Easy: {correct: 0, total: 0},
+                        Medium: {correct: 0, total: 0},
+                        Hard: {correct: 0, total: 0}
+                    };
+                    userProgress.currentDifficulty[topic] = 'Easy';
+                });
+
+                saveProgress();
+                alert('Progress reset successfully!');
+                backToConfig();
+            }
+        }
+    </script>
+</body>
+</html>
