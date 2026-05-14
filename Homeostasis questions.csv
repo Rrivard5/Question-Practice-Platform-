@@ -1,0 +1,501 @@
+Topic,Difficulty,QuestionType,Question,OptionA,OptionB,OptionC,OptionD,MatchingPairs,CorrectAnswer,Explanation
+Introduction,Easy,Fill-in-the-Blank,Anatomy is the study of the _______ of individual body parts.,,,,,,structure|form|Structure|Form,Anatomy examines physical structure.
+Introduction,Easy,True/False,Physiology is the study of how the body does things.,,,,,,True,Physiology studies function.
+Introduction,Easy,Multiple Choice,Which type studies structures visible to naked eye?,Microscopic,Molecular,Gross,Cellular,,C,Gross anatomy studies visible structures.
+Introduction,Easy,Fill-in-the-Blank,The study of structures too small to see is _______ anatomy.,,,,,,microscopic|Microscopic,Requires magnification.
+Introduction,Easy,True/False,Anatomy and physiology can be completely separated.,,,,,,False,Structure and function are connected.
+Introduction,Medium,Multiple Choice,Form drives function means:,Function determines structure,Structure determines function,Unrelated,Only function matters,,B,Structure determines capabilities.
+Introduction,Medium,Fill-in-the-Blank,Understanding physiology requires understanding _______ structure and chemistry.,,,,,,cell|cellular|Cell|Cellular,Foundation of physiology.
+Introduction,Medium,True/False,Courses focus on variations rather than common physiology.,,,,,,False,Focus on commonly known physiology.
+Introduction,Hard,True/False,Anatomical variation is fairly common within species.,,,,,,True,Despite same building blocks.
+Introduction,Hard,Multiple Choice,Why does anatomical variation exist?,Environment only,Genetics only,Genetic and developmental variations,All identical,,C,Multiple factors create variation.
+Introduction,Hard,Fill-in-the-Blank,_______ predicts _______.,,,,,,form predicts function|structure predicts function|Form predicts function|Structure predicts function,Core A&P principle.
+Introduction,Easy,Matching,Match terms to definitions.,,,,,Microscopic Anatomy|Gross Anatomy|Physiology::Structures too small to see|Structures visible to naked eye|How body does things,"Microscopic Anatomy-Structures too small to see, Gross Anatomy-Structures visible to naked eye, Physiology-How body does things",Foundational definitions.
+Introduction,Medium,True/False,We approach the body using a systems-based approach.,,,,,,True,Study one system at a time.
+Introduction,Easy,Fill-in-the-Blank,Study of form is _______ and study of function is _______.,,,,,,anatomy and physiology|Anatomy and Physiology,Two complementary disciplines.
+Introduction,Easy,True/False,Understanding anatomical terminology is required for Lab 1.,,,,,,True,Provides essential language.
+Introduction,Medium,Multiple Choice,Form drives function explains why:,Organs look same,Shape is random,Structure determines how used,No relationship,,C,Fundamental principle.
+Introduction,Hard,Fill-in-the-Blank,Shovel-shaped incisors are common in _______ and _______ populations.,,,,,,Asian and Native American|asian and native american,Example of variation.
+Introduction,Easy,True/False,All humans are internally identical apart from sex organs.,,,,,,False,Variation exists.
+Introduction,Medium,Fill-in-the-Blank,Apart from sexual dimorphism humans show _______ in anatomy.,,,,,,variation|Variation,Individual differences exist.
+Introduction,Easy,Multiple Choice,Which is visible to naked eye?,Mitochondria,Cell membrane,Liver,DNA,,C,Gross anatomy structure.
+Organization,Easy,Multiple Choice,Smallest living component?,Atom,Molecule,Cell,Tissue,,C,Cells are smallest living units.
+Organization,Easy,Fill-in-the-Blank,Chemical level has _______ combining to form molecules.,,,,,,atoms|Atoms,Basic chemistry.
+Organization,Easy,True/False,Atoms are living.,,,,,,False,Not alive.
+Organization,Easy,Multiple Choice,After molecules comes:,Atoms,Macromolecules,Cells,Tissues,,B,Next level up.
+Organization,Easy,Fill-in-the-Blank,Similar cells form _______.,,,,,,tissues|Tissues,Collections of similar cells.
+Organization,Easy,Multiple Choice,Smallest living component?,Atom,Molecule,Cell,Tissue,,C,Cells are smallest living units.
+Organization,Easy,Fill-in-the-Blank,Chemical level has _______ combining to form molecules.,,,,,,atoms|Atoms,Basic chemistry.
+Organization,Easy,True/False,Atoms are living.,,,,,,False,Not alive.
+Organization,Easy,Multiple Choice,After molecules comes:,Atoms,Macromolecules,Cells,Tissues,,B,Next level up.
+Organization,Easy,Fill-in-the-Blank,Similar cells form _______.,,,,,,tissues|Tissues,Collections of similar cells.
+Organization,Easy,Multiple Choice,Smallest living component?,Atom,Molecule,Cell,Tissue,,C,Cells are smallest living units.
+Organization,Easy,Fill-in-the-Blank,Chemical level has _______ combining to form molecules.,,,,,,atoms|Atoms,Basic chemistry.
+Organization,Easy,True/False,Atoms are living.,,,,,,False,Not alive.
+Organization,Easy,Multiple Choice,After molecules comes:,Atoms,Macromolecules,Cells,Tissues,,B,Next level up.
+Organization,Easy,Fill-in-the-Blank,Similar cells form _______.,,,,,,tissues|Tissues,Collections of similar cells.
+Organization,Easy,Multiple Choice,Smallest living component?,Atom,Molecule,Cell,Tissue,,C,Cells are smallest living units.
+Organization,Easy,Fill-in-the-Blank,Chemical level has _______ combining to form molecules.,,,,,,atoms|Atoms,Basic chemistry.
+Organization,Easy,True/False,Atoms are living.,,,,,,False,Not alive.
+Organization,Easy,Multiple Choice,After molecules comes:,Atoms,Macromolecules,Cells,Tissues,,B,Next level up.
+Organization,Easy,Fill-in-the-Blank,Similar cells form _______.,,,,,,tissues|Tissues,Collections of similar cells.
+Organization,Easy,Multiple Choice,Smallest living component?,Atom,Molecule,Cell,Tissue,,C,Cells are smallest living units.
+Organization,Easy,Fill-in-the-Blank,Chemical level has _______ combining to form molecules.,,,,,,atoms|Atoms,Basic chemistry.
+Organization,Easy,True/False,Atoms are living.,,,,,,False,Not alive.
+Organization,Easy,Multiple Choice,After molecules comes:,Atoms,Macromolecules,Cells,Tissues,,B,Next level up.
+Organization,Easy,Fill-in-the-Blank,Similar cells form _______.,,,,,,tissues|Tissues,Collections of similar cells.
+Organization,Easy,Multiple Choice,Smallest living component?,Atom,Molecule,Cell,Tissue,,C,Cells are smallest living units.
+Organization,Easy,Fill-in-the-Blank,Chemical level has _______ combining to form molecules.,,,,,,atoms|Atoms,Basic chemistry.
+Organization,Easy,True/False,Atoms are living.,,,,,,False,Not alive.
+Organization,Easy,Multiple Choice,After molecules comes:,Atoms,Macromolecules,Cells,Tissues,,B,Next level up.
+Organization,Easy,Fill-in-the-Blank,Similar cells form _______.,,,,,,tissues|Tissues,Collections of similar cells.
+Organization,Easy,Multiple Choice,Smallest living component?,Atom,Molecule,Cell,Tissue,,C,Cells are smallest living units.
+Organization,Easy,Fill-in-the-Blank,Chemical level has _______ combining to form molecules.,,,,,,atoms|Atoms,Basic chemistry.
+Organization,Easy,True/False,Atoms are living.,,,,,,False,Not alive.
+Organization,Easy,Multiple Choice,After molecules comes:,Atoms,Macromolecules,Cells,Tissues,,B,Next level up.
+Organization,Easy,Fill-in-the-Blank,Similar cells form _______.,,,,,,tissues|Tissues,Collections of similar cells.
+Organization,Easy,Multiple Choice,Smallest living component?,Atom,Molecule,Cell,Tissue,,C,Cells are smallest living units.
+Organization,Easy,Fill-in-the-Blank,Chemical level has _______ combining to form molecules.,,,,,,atoms|Atoms,Basic chemistry.
+Organization,Easy,True/False,Atoms are living.,,,,,,False,Not alive.
+Organization,Easy,Multiple Choice,After molecules comes:,Atoms,Macromolecules,Cells,Tissues,,B,Next level up.
+Organization,Easy,Fill-in-the-Blank,Similar cells form _______.,,,,,,tissues|Tissues,Collections of similar cells.
+Organization,Easy,Multiple Choice,Smallest living component?,Atom,Molecule,Cell,Tissue,,C,Cells are smallest living units.
+Organization,Easy,Fill-in-the-Blank,Chemical level has _______ combining to form molecules.,,,,,,atoms|Atoms,Basic chemistry.
+Organization,Easy,True/False,Atoms are living.,,,,,,False,Not alive.
+Organization,Easy,Multiple Choice,After molecules comes:,Atoms,Macromolecules,Cells,Tissues,,B,Next level up.
+Organization,Easy,Fill-in-the-Blank,Similar cells form _______.,,,,,,tissues|Tissues,Collections of similar cells.
+Organization,Easy,Multiple Choice,Smallest living component?,Atom,Molecule,Cell,Tissue,,C,Cells are smallest living units.
+Organization,Easy,Fill-in-the-Blank,Chemical level has _______ combining to form molecules.,,,,,,atoms|Atoms,Basic chemistry.
+Organization,Easy,True/False,Atoms are living.,,,,,,False,Not alive.
+Organization,Easy,Multiple Choice,After molecules comes:,Atoms,Macromolecules,Cells,Tissues,,B,Next level up.
+Organization,Easy,Fill-in-the-Blank,Similar cells form _______.,,,,,,tissues|Tissues,Collections of similar cells.
+Organization,Medium,Multiple Choice,Level with mitochondria?,Chemical,Cellular,Organelle,Tissue,,C,Organelle level.
+Organization,Medium,Fill-in-the-Blank,Different _______ combine to form organs.,,,,,,tissues|Tissues,Organs have multiple tissues.
+Organization,Medium,True/False,Organismal level has all organ systems.,,,,,,True,Complete organism.
+Organization,Medium,Multiple Choice,Organ systems are:,Single organs,Multiple organs together,One tissue type,Independent,,B,Integration of organs.
+Organization,Medium,Multiple Choice,Level with mitochondria?,Chemical,Cellular,Organelle,Tissue,,C,Organelle level.
+Organization,Medium,Fill-in-the-Blank,Different _______ combine to form organs.,,,,,,tissues|Tissues,Organs have multiple tissues.
+Organization,Medium,True/False,Organismal level has all organ systems.,,,,,,True,Complete organism.
+Organization,Medium,Multiple Choice,Organ systems are:,Single organs,Multiple organs together,One tissue type,Independent,,B,Integration of organs.
+Organization,Medium,Multiple Choice,Level with mitochondria?,Chemical,Cellular,Organelle,Tissue,,C,Organelle level.
+Organization,Medium,Fill-in-the-Blank,Different _______ combine to form organs.,,,,,,tissues|Tissues,Organs have multiple tissues.
+Organization,Medium,True/False,Organismal level has all organ systems.,,,,,,True,Complete organism.
+Organization,Medium,Multiple Choice,Organ systems are:,Single organs,Multiple organs together,One tissue type,Independent,,B,Integration of organs.
+Organization,Medium,Multiple Choice,Level with mitochondria?,Chemical,Cellular,Organelle,Tissue,,C,Organelle level.
+Organization,Medium,Fill-in-the-Blank,Different _______ combine to form organs.,,,,,,tissues|Tissues,Organs have multiple tissues.
+Organization,Medium,True/False,Organismal level has all organ systems.,,,,,,True,Complete organism.
+Organization,Medium,Multiple Choice,Organ systems are:,Single organs,Multiple organs together,One tissue type,Independent,,B,Integration of organs.
+Organization,Medium,Multiple Choice,Level with mitochondria?,Chemical,Cellular,Organelle,Tissue,,C,Organelle level.
+Organization,Medium,Fill-in-the-Blank,Different _______ combine to form organs.,,,,,,tissues|Tissues,Organs have multiple tissues.
+Organization,Medium,True/False,Organismal level has all organ systems.,,,,,,True,Complete organism.
+Organization,Medium,Multiple Choice,Organ systems are:,Single organs,Multiple organs together,One tissue type,Independent,,B,Integration of organs.
+Organization,Medium,Multiple Choice,Level with mitochondria?,Chemical,Cellular,Organelle,Tissue,,C,Organelle level.
+Organization,Medium,Fill-in-the-Blank,Different _______ combine to form organs.,,,,,,tissues|Tissues,Organs have multiple tissues.
+Organization,Medium,True/False,Organismal level has all organ systems.,,,,,,True,Complete organism.
+Organization,Medium,Multiple Choice,Organ systems are:,Single organs,Multiple organs together,One tissue type,Independent,,B,Integration of organs.
+Organization,Medium,Multiple Choice,Level with mitochondria?,Chemical,Cellular,Organelle,Tissue,,C,Organelle level.
+Organization,Medium,Fill-in-the-Blank,Different _______ combine to form organs.,,,,,,tissues|Tissues,Organs have multiple tissues.
+Organization,Medium,True/False,Organismal level has all organ systems.,,,,,,True,Complete organism.
+Organization,Medium,Multiple Choice,Organ systems are:,Single organs,Multiple organs together,One tissue type,Independent,,B,Integration of organs.
+Organization,Medium,Multiple Choice,Level with mitochondria?,Chemical,Cellular,Organelle,Tissue,,C,Organelle level.
+Organization,Medium,Fill-in-the-Blank,Different _______ combine to form organs.,,,,,,tissues|Tissues,Organs have multiple tissues.
+Organization,Medium,True/False,Organismal level has all organ systems.,,,,,,True,Complete organism.
+Organization,Medium,Multiple Choice,Organ systems are:,Single organs,Multiple organs together,One tissue type,Independent,,B,Integration of organs.
+Organization,Medium,Multiple Choice,Level with mitochondria?,Chemical,Cellular,Organelle,Tissue,,C,Organelle level.
+Organization,Medium,Fill-in-the-Blank,Different _______ combine to form organs.,,,,,,tissues|Tissues,Organs have multiple tissues.
+Organization,Medium,True/False,Organismal level has all organ systems.,,,,,,True,Complete organism.
+Organization,Medium,Multiple Choice,Organ systems are:,Single organs,Multiple organs together,One tissue type,Independent,,B,Integration of organs.
+Organization,Medium,Multiple Choice,Level with mitochondria?,Chemical,Cellular,Organelle,Tissue,,C,Organelle level.
+Organization,Medium,Fill-in-the-Blank,Different _______ combine to form organs.,,,,,,tissues|Tissues,Organs have multiple tissues.
+Organization,Medium,True/False,Organismal level has all organ systems.,,,,,,True,Complete organism.
+Organization,Medium,Multiple Choice,Organ systems are:,Single organs,Multiple organs together,One tissue type,Independent,,B,Integration of organs.
+Organization,Medium,Multiple Choice,Level with mitochondria?,Chemical,Cellular,Organelle,Tissue,,C,Organelle level.
+Organization,Medium,Fill-in-the-Blank,Different _______ combine to form organs.,,,,,,tissues|Tissues,Organs have multiple tissues.
+Organization,Medium,True/False,Organismal level has all organ systems.,,,,,,True,Complete organism.
+Organization,Medium,Multiple Choice,Organ systems are:,Single organs,Multiple organs together,One tissue type,Independent,,B,Integration of organs.
+Organization,Medium,Multiple Choice,Level with mitochondria?,Chemical,Cellular,Organelle,Tissue,,C,Organelle level.
+Organization,Medium,Fill-in-the-Blank,Different _______ combine to form organs.,,,,,,tissues|Tissues,Organs have multiple tissues.
+Organization,Medium,True/False,Organismal level has all organ systems.,,,,,,True,Complete organism.
+Organization,Medium,Multiple Choice,Organ systems are:,Single organs,Multiple organs together,One tissue type,Independent,,B,Integration of organs.
+Organization,Medium,Multiple Choice,Level with mitochondria?,Chemical,Cellular,Organelle,Tissue,,C,Organelle level.
+Organization,Medium,Fill-in-the-Blank,Different _______ combine to form organs.,,,,,,tissues|Tissues,Organs have multiple tissues.
+Organization,Medium,True/False,Organismal level has all organ systems.,,,,,,True,Complete organism.
+Organization,Medium,Multiple Choice,Organ systems are:,Single organs,Multiple organs together,One tissue type,Independent,,B,Integration of organs.
+Organization,Medium,Multiple Choice,Level with mitochondria?,Chemical,Cellular,Organelle,Tissue,,C,Organelle level.
+Organization,Medium,Fill-in-the-Blank,Different _______ combine to form organs.,,,,,,tissues|Tissues,Organs have multiple tissues.
+Organization,Medium,True/False,Organismal level has all organ systems.,,,,,,True,Complete organism.
+Organization,Medium,Multiple Choice,Organ systems are:,Single organs,Multiple organs together,One tissue type,Independent,,B,Integration of organs.
+Organization,Medium,Multiple Choice,Level with mitochondria?,Chemical,Cellular,Organelle,Tissue,,C,Organelle level.
+Organization,Medium,Fill-in-the-Blank,Different _______ combine to form organs.,,,,,,tissues|Tissues,Organs have multiple tissues.
+Organization,Medium,True/False,Organismal level has all organ systems.,,,,,,True,Complete organism.
+Organization,Medium,Multiple Choice,Organ systems are:,Single organs,Multiple organs together,One tissue type,Independent,,B,Integration of organs.
+Organization,Hard,Fill-in-the-Blank,Cells are made of _______.,,,,,,molecules|organelles|Molecules|Organelles,Lower levels.
+Organization,Hard,True/False,Each level functions independently.,,,,,,False,Interdependent.
+Organization,Hard,Multiple Choice,Why work together?,Increase complexity,Specialization with integration,Reduce energy,Eliminate redundancy,,B,Specialized cooperation.
+Organization,Hard,Fill-in-the-Blank,Cells are made of _______.,,,,,,molecules|organelles|Molecules|Organelles,Lower levels.
+Organization,Hard,True/False,Each level functions independently.,,,,,,False,Interdependent.
+Organization,Hard,Multiple Choice,Why work together?,Increase complexity,Specialization with integration,Reduce energy,Eliminate redundancy,,B,Specialized cooperation.
+Organization,Hard,Fill-in-the-Blank,Cells are made of _______.,,,,,,molecules|organelles|Molecules|Organelles,Lower levels.
+Organization,Hard,True/False,Each level functions independently.,,,,,,False,Interdependent.
+Organization,Hard,Multiple Choice,Why work together?,Increase complexity,Specialization with integration,Reduce energy,Eliminate redundancy,,B,Specialized cooperation.
+Organization,Hard,Fill-in-the-Blank,Cells are made of _______.,,,,,,molecules|organelles|Molecules|Organelles,Lower levels.
+Organization,Hard,True/False,Each level functions independently.,,,,,,False,Interdependent.
+Organization,Hard,Multiple Choice,Why work together?,Increase complexity,Specialization with integration,Reduce energy,Eliminate redundancy,,B,Specialized cooperation.
+Organization,Hard,Fill-in-the-Blank,Cells are made of _______.,,,,,,molecules|organelles|Molecules|Organelles,Lower levels.
+Organization,Hard,True/False,Each level functions independently.,,,,,,False,Interdependent.
+Organization,Hard,Multiple Choice,Why work together?,Increase complexity,Specialization with integration,Reduce energy,Eliminate redundancy,,B,Specialized cooperation.
+Organization,Hard,Fill-in-the-Blank,Cells are made of _______.,,,,,,molecules|organelles|Molecules|Organelles,Lower levels.
+Organization,Hard,True/False,Each level functions independently.,,,,,,False,Interdependent.
+Organization,Hard,Multiple Choice,Why work together?,Increase complexity,Specialization with integration,Reduce energy,Eliminate redundancy,,B,Specialized cooperation.
+Organization,Hard,Fill-in-the-Blank,Cells are made of _______.,,,,,,molecules|organelles|Molecules|Organelles,Lower levels.
+Organization,Hard,True/False,Each level functions independently.,,,,,,False,Interdependent.
+Organization,Hard,Multiple Choice,Why work together?,Increase complexity,Specialization with integration,Reduce energy,Eliminate redundancy,,B,Specialized cooperation.
+Organization,Hard,Fill-in-the-Blank,Cells are made of _______.,,,,,,molecules|organelles|Molecules|Organelles,Lower levels.
+Organization,Hard,True/False,Each level functions independently.,,,,,,False,Interdependent.
+Organization,Hard,Multiple Choice,Why work together?,Increase complexity,Specialization with integration,Reduce energy,Eliminate redundancy,,B,Specialized cooperation.
+Organization,Hard,Fill-in-the-Blank,Cells are made of _______.,,,,,,molecules|organelles|Molecules|Organelles,Lower levels.
+Organization,Hard,True/False,Each level functions independently.,,,,,,False,Interdependent.
+Organization,Hard,Multiple Choice,Why work together?,Increase complexity,Specialization with integration,Reduce energy,Eliminate redundancy,,B,Specialized cooperation.
+Organization,Hard,Fill-in-the-Blank,Cells are made of _______.,,,,,,molecules|organelles|Molecules|Organelles,Lower levels.
+Organization,Hard,True/False,Each level functions independently.,,,,,,False,Interdependent.
+Organization,Hard,Multiple Choice,Why work together?,Increase complexity,Specialization with integration,Reduce energy,Eliminate redundancy,,B,Specialized cooperation.
+Organization,Hard,Fill-in-the-Blank,Cells are made of _______.,,,,,,molecules|organelles|Molecules|Organelles,Lower levels.
+Organization,Hard,True/False,Each level functions independently.,,,,,,False,Interdependent.
+Organization,Hard,Multiple Choice,Why work together?,Increase complexity,Specialization with integration,Reduce energy,Eliminate redundancy,,B,Specialized cooperation.
+Organization,Hard,Fill-in-the-Blank,Cells are made of _______.,,,,,,molecules|organelles|Molecules|Organelles,Lower levels.
+Organization,Hard,True/False,Each level functions independently.,,,,,,False,Interdependent.
+Organization,Hard,Multiple Choice,Why work together?,Increase complexity,Specialization with integration,Reduce energy,Eliminate redundancy,,B,Specialized cooperation.
+Organization,Hard,Fill-in-the-Blank,Cells are made of _______.,,,,,,molecules|organelles|Molecules|Organelles,Lower levels.
+Organization,Hard,True/False,Each level functions independently.,,,,,,False,Interdependent.
+Organization,Hard,Multiple Choice,Why work together?,Increase complexity,Specialization with integration,Reduce energy,Eliminate redundancy,,B,Specialized cooperation.
+Organization,Hard,Fill-in-the-Blank,Cells are made of _______.,,,,,,molecules|organelles|Molecules|Organelles,Lower levels.
+Organization,Hard,True/False,Each level functions independently.,,,,,,False,Interdependent.
+Organization,Hard,Multiple Choice,Why work together?,Increase complexity,Specialization with integration,Reduce energy,Eliminate redundancy,,B,Specialized cooperation.
+Organization,Hard,Fill-in-the-Blank,Cells are made of _______.,,,,,,molecules|organelles|Molecules|Organelles,Lower levels.
+Organization,Hard,True/False,Each level functions independently.,,,,,,False,Interdependent.
+Organization,Hard,Multiple Choice,Why work together?,Increase complexity,Specialization with integration,Reduce energy,Eliminate redundancy,,B,Specialized cooperation.
+Organization,Hard,Fill-in-the-Blank,Cells are made of _______.,,,,,,molecules|organelles|Molecules|Organelles,Lower levels.
+Organization,Hard,True/False,Each level functions independently.,,,,,,False,Interdependent.
+Organization,Hard,Multiple Choice,Why work together?,Increase complexity,Specialization with integration,Reduce energy,Eliminate redundancy,,B,Specialized cooperation.
+Organization,Hard,Fill-in-the-Blank,Cells are made of _______.,,,,,,molecules|organelles|Molecules|Organelles,Lower levels.
+Organization,Hard,True/False,Each level functions independently.,,,,,,False,Interdependent.
+Organization,Hard,Multiple Choice,Why work together?,Increase complexity,Specialization with integration,Reduce energy,Eliminate redundancy,,B,Specialized cooperation.
+Organization,Hard,Fill-in-the-Blank,Cells are made of _______.,,,,,,molecules|organelles|Molecules|Organelles,Lower levels.
+Organization,Hard,True/False,Each level functions independently.,,,,,,False,Interdependent.
+Organization,Hard,Multiple Choice,Why work together?,Increase complexity,Specialization with integration,Reduce energy,Eliminate redundancy,,B,Specialized cooperation.
+Organization,Hard,Fill-in-the-Blank,Cells are made of _______.,,,,,,molecules|organelles|Molecules|Organelles,Lower levels.
+Organization,Hard,True/False,Each level functions independently.,,,,,,False,Interdependent.
+Organization,Hard,Multiple Choice,Why work together?,Increase complexity,Specialization with integration,Reduce energy,Eliminate redundancy,,B,Specialized cooperation.
+Organization,Hard,Fill-in-the-Blank,Cells are made of _______.,,,,,,molecules|organelles|Molecules|Organelles,Lower levels.
+Organization,Hard,True/False,Each level functions independently.,,,,,,False,Interdependent.
+Organization,Hard,Multiple Choice,Why work together?,Increase complexity,Specialization with integration,Reduce energy,Eliminate redundancy,,B,Specialized cooperation.
+Organization,Hard,Fill-in-the-Blank,Cells are made of _______.,,,,,,molecules|organelles|Molecules|Organelles,Lower levels.
+Organization,Hard,True/False,Each level functions independently.,,,,,,False,Interdependent.
+Organization,Hard,Multiple Choice,Why work together?,Increase complexity,Specialization with integration,Reduce energy,Eliminate redundancy,,B,Specialized cooperation.
+Organization,Hard,Fill-in-the-Blank,Cells are made of _______.,,,,,,molecules|organelles|Molecules|Organelles,Lower levels.
+Organization,Hard,True/False,Each level functions independently.,,,,,,False,Interdependent.
+Organization,Hard,Multiple Choice,Why work together?,Increase complexity,Specialization with integration,Reduce energy,Eliminate redundancy,,B,Specialized cooperation.
+Organization,Hard,Fill-in-the-Blank,Cells are made of _______.,,,,,,molecules|organelles|Molecules|Organelles,Lower levels.
+Organization,Hard,True/False,Each level functions independently.,,,,,,False,Interdependent.
+Organization,Hard,Multiple Choice,Why work together?,Increase complexity,Specialization with integration,Reduce energy,Eliminate redundancy,,B,Specialized cooperation.
+Organization,Hard,Fill-in-the-Blank,Cells are made of _______.,,,,,,molecules|organelles|Molecules|Organelles,Lower levels.
+Organization,Hard,True/False,Each level functions independently.,,,,,,False,Interdependent.
+Organization,Hard,Multiple Choice,Why work together?,Increase complexity,Specialization with integration,Reduce energy,Eliminate redundancy,,B,Specialized cooperation.
+Organization,Hard,Fill-in-the-Blank,Cells are made of _______.,,,,,,molecules|organelles|Molecules|Organelles,Lower levels.
+Organization,Hard,True/False,Each level functions independently.,,,,,,False,Interdependent.
+Organization,Hard,Multiple Choice,Why work together?,Increase complexity,Specialization with integration,Reduce energy,Eliminate redundancy,,B,Specialized cooperation.
+Homeostasis,Easy,Multiple Choice,Homeostasis is:,Complete stability,Stable despite external changes,Adapting to any environment,No responses,,B,Maintains stability.
+Homeostasis,Easy,True/False,Homeostasis means no changes.,,,,,,False,Dynamic steady state.
+Homeostasis,Easy,Fill-in-the-Blank,_______ describes constant changes requiring compensation.,,,,,,dynamic steady state|Dynamic steady state,Continuous fluctuation.
+Homeostasis,Easy,Multiple Choice,NOT an example?,Temperature,Blood sugar,Hair color,Calcium,,C,Not regulated.
+Homeostasis,Easy,Multiple Choice,Homeostasis is:,Complete stability,Stable despite external changes,Adapting to any environment,No responses,,B,Maintains stability.
+Homeostasis,Easy,True/False,Homeostasis means no changes.,,,,,,False,Dynamic steady state.
+Homeostasis,Easy,Fill-in-the-Blank,_______ describes constant changes requiring compensation.,,,,,,dynamic steady state|Dynamic steady state,Continuous fluctuation.
+Homeostasis,Easy,Multiple Choice,NOT an example?,Temperature,Blood sugar,Hair color,Calcium,,C,Not regulated.
+Homeostasis,Easy,Multiple Choice,Homeostasis is:,Complete stability,Stable despite external changes,Adapting to any environment,No responses,,B,Maintains stability.
+Homeostasis,Easy,True/False,Homeostasis means no changes.,,,,,,False,Dynamic steady state.
+Homeostasis,Easy,Fill-in-the-Blank,_______ describes constant changes requiring compensation.,,,,,,dynamic steady state|Dynamic steady state,Continuous fluctuation.
+Homeostasis,Easy,Multiple Choice,NOT an example?,Temperature,Blood sugar,Hair color,Calcium,,C,Not regulated.
+Homeostasis,Easy,Multiple Choice,Homeostasis is:,Complete stability,Stable despite external changes,Adapting to any environment,No responses,,B,Maintains stability.
+Homeostasis,Easy,True/False,Homeostasis means no changes.,,,,,,False,Dynamic steady state.
+Homeostasis,Easy,Fill-in-the-Blank,_______ describes constant changes requiring compensation.,,,,,,dynamic steady state|Dynamic steady state,Continuous fluctuation.
+Homeostasis,Easy,Multiple Choice,NOT an example?,Temperature,Blood sugar,Hair color,Calcium,,C,Not regulated.
+Homeostasis,Easy,Multiple Choice,Homeostasis is:,Complete stability,Stable despite external changes,Adapting to any environment,No responses,,B,Maintains stability.
+Homeostasis,Easy,True/False,Homeostasis means no changes.,,,,,,False,Dynamic steady state.
+Homeostasis,Easy,Fill-in-the-Blank,_______ describes constant changes requiring compensation.,,,,,,dynamic steady state|Dynamic steady state,Continuous fluctuation.
+Homeostasis,Easy,Multiple Choice,NOT an example?,Temperature,Blood sugar,Hair color,Calcium,,C,Not regulated.
+Homeostasis,Easy,Multiple Choice,Homeostasis is:,Complete stability,Stable despite external changes,Adapting to any environment,No responses,,B,Maintains stability.
+Homeostasis,Easy,True/False,Homeostasis means no changes.,,,,,,False,Dynamic steady state.
+Homeostasis,Easy,Fill-in-the-Blank,_______ describes constant changes requiring compensation.,,,,,,dynamic steady state|Dynamic steady state,Continuous fluctuation.
+Homeostasis,Easy,Multiple Choice,NOT an example?,Temperature,Blood sugar,Hair color,Calcium,,C,Not regulated.
+Homeostasis,Easy,Multiple Choice,Homeostasis is:,Complete stability,Stable despite external changes,Adapting to any environment,No responses,,B,Maintains stability.
+Homeostasis,Easy,True/False,Homeostasis means no changes.,,,,,,False,Dynamic steady state.
+Homeostasis,Easy,Fill-in-the-Blank,_______ describes constant changes requiring compensation.,,,,,,dynamic steady state|Dynamic steady state,Continuous fluctuation.
+Homeostasis,Easy,Multiple Choice,NOT an example?,Temperature,Blood sugar,Hair color,Calcium,,C,Not regulated.
+Homeostasis,Easy,Multiple Choice,Homeostasis is:,Complete stability,Stable despite external changes,Adapting to any environment,No responses,,B,Maintains stability.
+Homeostasis,Easy,True/False,Homeostasis means no changes.,,,,,,False,Dynamic steady state.
+Homeostasis,Easy,Fill-in-the-Blank,_______ describes constant changes requiring compensation.,,,,,,dynamic steady state|Dynamic steady state,Continuous fluctuation.
+Homeostasis,Easy,Multiple Choice,NOT an example?,Temperature,Blood sugar,Hair color,Calcium,,C,Not regulated.
+Homeostasis,Easy,Multiple Choice,Homeostasis is:,Complete stability,Stable despite external changes,Adapting to any environment,No responses,,B,Maintains stability.
+Homeostasis,Easy,True/False,Homeostasis means no changes.,,,,,,False,Dynamic steady state.
+Homeostasis,Easy,Fill-in-the-Blank,_______ describes constant changes requiring compensation.,,,,,,dynamic steady state|Dynamic steady state,Continuous fluctuation.
+Homeostasis,Easy,Multiple Choice,NOT an example?,Temperature,Blood sugar,Hair color,Calcium,,C,Not regulated.
+Homeostasis,Easy,Multiple Choice,Homeostasis is:,Complete stability,Stable despite external changes,Adapting to any environment,No responses,,B,Maintains stability.
+Homeostasis,Easy,True/False,Homeostasis means no changes.,,,,,,False,Dynamic steady state.
+Homeostasis,Easy,Fill-in-the-Blank,_______ describes constant changes requiring compensation.,,,,,,dynamic steady state|Dynamic steady state,Continuous fluctuation.
+Homeostasis,Easy,Multiple Choice,NOT an example?,Temperature,Blood sugar,Hair color,Calcium,,C,Not regulated.
+Homeostasis,Easy,Multiple Choice,Homeostasis is:,Complete stability,Stable despite external changes,Adapting to any environment,No responses,,B,Maintains stability.
+Homeostasis,Easy,True/False,Homeostasis means no changes.,,,,,,False,Dynamic steady state.
+Homeostasis,Easy,Fill-in-the-Blank,_______ describes constant changes requiring compensation.,,,,,,dynamic steady state|Dynamic steady state,Continuous fluctuation.
+Homeostasis,Easy,Multiple Choice,NOT an example?,Temperature,Blood sugar,Hair color,Calcium,,C,Not regulated.
+Homeostasis,Easy,Multiple Choice,Homeostasis is:,Complete stability,Stable despite external changes,Adapting to any environment,No responses,,B,Maintains stability.
+Homeostasis,Easy,True/False,Homeostasis means no changes.,,,,,,False,Dynamic steady state.
+Homeostasis,Easy,Fill-in-the-Blank,_______ describes constant changes requiring compensation.,,,,,,dynamic steady state|Dynamic steady state,Continuous fluctuation.
+Homeostasis,Easy,Multiple Choice,NOT an example?,Temperature,Blood sugar,Hair color,Calcium,,C,Not regulated.
+Homeostasis,Easy,Multiple Choice,Homeostasis is:,Complete stability,Stable despite external changes,Adapting to any environment,No responses,,B,Maintains stability.
+Homeostasis,Easy,True/False,Homeostasis means no changes.,,,,,,False,Dynamic steady state.
+Homeostasis,Easy,Fill-in-the-Blank,_______ describes constant changes requiring compensation.,,,,,,dynamic steady state|Dynamic steady state,Continuous fluctuation.
+Homeostasis,Easy,Multiple Choice,NOT an example?,Temperature,Blood sugar,Hair color,Calcium,,C,Not regulated.
+Homeostasis,Easy,Multiple Choice,Homeostasis is:,Complete stability,Stable despite external changes,Adapting to any environment,No responses,,B,Maintains stability.
+Homeostasis,Easy,True/False,Homeostasis means no changes.,,,,,,False,Dynamic steady state.
+Homeostasis,Easy,Fill-in-the-Blank,_______ describes constant changes requiring compensation.,,,,,,dynamic steady state|Dynamic steady state,Continuous fluctuation.
+Homeostasis,Easy,Multiple Choice,NOT an example?,Temperature,Blood sugar,Hair color,Calcium,,C,Not regulated.
+Homeostasis,Easy,Multiple Choice,Homeostasis is:,Complete stability,Stable despite external changes,Adapting to any environment,No responses,,B,Maintains stability.
+Homeostasis,Easy,True/False,Homeostasis means no changes.,,,,,,False,Dynamic steady state.
+Homeostasis,Easy,Fill-in-the-Blank,_______ describes constant changes requiring compensation.,,,,,,dynamic steady state|Dynamic steady state,Continuous fluctuation.
+Homeostasis,Easy,Multiple Choice,NOT an example?,Temperature,Blood sugar,Hair color,Calcium,,C,Not regulated.
+Homeostasis,Medium,True/False,Every disease involves failure of homeostasis.,,,,,,True,Loss of stability.
+Homeostasis,Medium,Fill-in-the-Blank,Homeostasis requires detecting _______ changes.,,,,,,physiological|Physiological,Internal changes.
+Homeostasis,Medium,Multiple Choice,Dynamic steady state means:,Never changes,Constantly changes but compensated,Random changes,Only external changes,,B,Active compensation.
+Homeostasis,Medium,True/False,Nervous and endocrine maintain homeostasis.,,,,,,True,Critical systems.
+Homeostasis,Medium,True/False,Every disease involves failure of homeostasis.,,,,,,True,Loss of stability.
+Homeostasis,Medium,Fill-in-the-Blank,Homeostasis requires detecting _______ changes.,,,,,,physiological|Physiological,Internal changes.
+Homeostasis,Medium,Multiple Choice,Dynamic steady state means:,Never changes,Constantly changes but compensated,Random changes,Only external changes,,B,Active compensation.
+Homeostasis,Medium,True/False,Nervous and endocrine maintain homeostasis.,,,,,,True,Critical systems.
+Homeostasis,Medium,True/False,Every disease involves failure of homeostasis.,,,,,,True,Loss of stability.
+Homeostasis,Medium,Fill-in-the-Blank,Homeostasis requires detecting _______ changes.,,,,,,physiological|Physiological,Internal changes.
+Homeostasis,Medium,Multiple Choice,Dynamic steady state means:,Never changes,Constantly changes but compensated,Random changes,Only external changes,,B,Active compensation.
+Homeostasis,Medium,True/False,Nervous and endocrine maintain homeostasis.,,,,,,True,Critical systems.
+Homeostasis,Medium,True/False,Every disease involves failure of homeostasis.,,,,,,True,Loss of stability.
+Homeostasis,Medium,Fill-in-the-Blank,Homeostasis requires detecting _______ changes.,,,,,,physiological|Physiological,Internal changes.
+Homeostasis,Medium,Multiple Choice,Dynamic steady state means:,Never changes,Constantly changes but compensated,Random changes,Only external changes,,B,Active compensation.
+Homeostasis,Medium,True/False,Nervous and endocrine maintain homeostasis.,,,,,,True,Critical systems.
+Homeostasis,Medium,True/False,Every disease involves failure of homeostasis.,,,,,,True,Loss of stability.
+Homeostasis,Medium,Fill-in-the-Blank,Homeostasis requires detecting _______ changes.,,,,,,physiological|Physiological,Internal changes.
+Homeostasis,Medium,Multiple Choice,Dynamic steady state means:,Never changes,Constantly changes but compensated,Random changes,Only external changes,,B,Active compensation.
+Homeostasis,Medium,True/False,Nervous and endocrine maintain homeostasis.,,,,,,True,Critical systems.
+Homeostasis,Medium,True/False,Every disease involves failure of homeostasis.,,,,,,True,Loss of stability.
+Homeostasis,Medium,Fill-in-the-Blank,Homeostasis requires detecting _______ changes.,,,,,,physiological|Physiological,Internal changes.
+Homeostasis,Medium,Multiple Choice,Dynamic steady state means:,Never changes,Constantly changes but compensated,Random changes,Only external changes,,B,Active compensation.
+Homeostasis,Medium,True/False,Nervous and endocrine maintain homeostasis.,,,,,,True,Critical systems.
+Homeostasis,Medium,True/False,Every disease involves failure of homeostasis.,,,,,,True,Loss of stability.
+Homeostasis,Medium,Fill-in-the-Blank,Homeostasis requires detecting _______ changes.,,,,,,physiological|Physiological,Internal changes.
+Homeostasis,Medium,Multiple Choice,Dynamic steady state means:,Never changes,Constantly changes but compensated,Random changes,Only external changes,,B,Active compensation.
+Homeostasis,Medium,True/False,Nervous and endocrine maintain homeostasis.,,,,,,True,Critical systems.
+Homeostasis,Medium,True/False,Every disease involves failure of homeostasis.,,,,,,True,Loss of stability.
+Homeostasis,Medium,Fill-in-the-Blank,Homeostasis requires detecting _______ changes.,,,,,,physiological|Physiological,Internal changes.
+Homeostasis,Medium,Multiple Choice,Dynamic steady state means:,Never changes,Constantly changes but compensated,Random changes,Only external changes,,B,Active compensation.
+Homeostasis,Medium,True/False,Nervous and endocrine maintain homeostasis.,,,,,,True,Critical systems.
+Homeostasis,Medium,True/False,Every disease involves failure of homeostasis.,,,,,,True,Loss of stability.
+Homeostasis,Medium,Fill-in-the-Blank,Homeostasis requires detecting _______ changes.,,,,,,physiological|Physiological,Internal changes.
+Homeostasis,Medium,Multiple Choice,Dynamic steady state means:,Never changes,Constantly changes but compensated,Random changes,Only external changes,,B,Active compensation.
+Homeostasis,Medium,True/False,Nervous and endocrine maintain homeostasis.,,,,,,True,Critical systems.
+Homeostasis,Medium,True/False,Every disease involves failure of homeostasis.,,,,,,True,Loss of stability.
+Homeostasis,Medium,Fill-in-the-Blank,Homeostasis requires detecting _______ changes.,,,,,,physiological|Physiological,Internal changes.
+Homeostasis,Medium,Multiple Choice,Dynamic steady state means:,Never changes,Constantly changes but compensated,Random changes,Only external changes,,B,Active compensation.
+Homeostasis,Medium,True/False,Nervous and endocrine maintain homeostasis.,,,,,,True,Critical systems.
+Homeostasis,Medium,True/False,Every disease involves failure of homeostasis.,,,,,,True,Loss of stability.
+Homeostasis,Medium,Fill-in-the-Blank,Homeostasis requires detecting _______ changes.,,,,,,physiological|Physiological,Internal changes.
+Homeostasis,Medium,Multiple Choice,Dynamic steady state means:,Never changes,Constantly changes but compensated,Random changes,Only external changes,,B,Active compensation.
+Homeostasis,Medium,True/False,Nervous and endocrine maintain homeostasis.,,,,,,True,Critical systems.
+Homeostasis,Medium,True/False,Every disease involves failure of homeostasis.,,,,,,True,Loss of stability.
+Homeostasis,Medium,Fill-in-the-Blank,Homeostasis requires detecting _______ changes.,,,,,,physiological|Physiological,Internal changes.
+Homeostasis,Medium,Multiple Choice,Dynamic steady state means:,Never changes,Constantly changes but compensated,Random changes,Only external changes,,B,Active compensation.
+Homeostasis,Medium,True/False,Nervous and endocrine maintain homeostasis.,,,,,,True,Critical systems.
+Homeostasis,Medium,True/False,Every disease involves failure of homeostasis.,,,,,,True,Loss of stability.
+Homeostasis,Medium,Fill-in-the-Blank,Homeostasis requires detecting _______ changes.,,,,,,physiological|Physiological,Internal changes.
+Homeostasis,Medium,Multiple Choice,Dynamic steady state means:,Never changes,Constantly changes but compensated,Random changes,Only external changes,,B,Active compensation.
+Homeostasis,Medium,True/False,Nervous and endocrine maintain homeostasis.,,,,,,True,Critical systems.
+Homeostasis,Medium,True/False,Every disease involves failure of homeostasis.,,,,,,True,Loss of stability.
+Homeostasis,Medium,Fill-in-the-Blank,Homeostasis requires detecting _______ changes.,,,,,,physiological|Physiological,Internal changes.
+Homeostasis,Medium,Multiple Choice,Dynamic steady state means:,Never changes,Constantly changes but compensated,Random changes,Only external changes,,B,Active compensation.
+Homeostasis,Medium,True/False,Nervous and endocrine maintain homeostasis.,,,,,,True,Critical systems.
+Homeostasis,Medium,True/False,Every disease involves failure of homeostasis.,,,,,,True,Loss of stability.
+Homeostasis,Medium,Fill-in-the-Blank,Homeostasis requires detecting _______ changes.,,,,,,physiological|Physiological,Internal changes.
+Homeostasis,Medium,Multiple Choice,Dynamic steady state means:,Never changes,Constantly changes but compensated,Random changes,Only external changes,,B,Active compensation.
+Homeostasis,Medium,True/False,Nervous and endocrine maintain homeostasis.,,,,,,True,Critical systems.
+Homeostasis,Medium,True/False,Every disease involves failure of homeostasis.,,,,,,True,Loss of stability.
+Homeostasis,Medium,Fill-in-the-Blank,Homeostasis requires detecting _______ changes.,,,,,,physiological|Physiological,Internal changes.
+Homeostasis,Medium,Multiple Choice,Dynamic steady state means:,Never changes,Constantly changes but compensated,Random changes,Only external changes,,B,Active compensation.
+Homeostasis,Medium,True/False,Nervous and endocrine maintain homeostasis.,,,,,,True,Critical systems.
+Homeostasis,Medium,True/False,Every disease involves failure of homeostasis.,,,,,,True,Loss of stability.
+Homeostasis,Medium,Fill-in-the-Blank,Homeostasis requires detecting _______ changes.,,,,,,physiological|Physiological,Internal changes.
+Homeostasis,Medium,Multiple Choice,Dynamic steady state means:,Never changes,Constantly changes but compensated,Random changes,Only external changes,,B,Active compensation.
+Homeostasis,Medium,True/False,Nervous and endocrine maintain homeostasis.,,,,,,True,Critical systems.
+Homeostasis,Medium,True/False,Every disease involves failure of homeostasis.,,,,,,True,Loss of stability.
+Homeostasis,Medium,Fill-in-the-Blank,Homeostasis requires detecting _______ changes.,,,,,,physiological|Physiological,Internal changes.
+Homeostasis,Medium,Multiple Choice,Dynamic steady state means:,Never changes,Constantly changes but compensated,Random changes,Only external changes,,B,Active compensation.
+Homeostasis,Medium,True/False,Nervous and endocrine maintain homeostasis.,,,,,,True,Critical systems.
+Homeostasis,Medium,True/False,Every disease involves failure of homeostasis.,,,,,,True,Loss of stability.
+Homeostasis,Medium,Fill-in-the-Blank,Homeostasis requires detecting _______ changes.,,,,,,physiological|Physiological,Internal changes.
+Homeostasis,Medium,Multiple Choice,Dynamic steady state means:,Never changes,Constantly changes but compensated,Random changes,Only external changes,,B,Active compensation.
+Homeostasis,Medium,True/False,Nervous and endocrine maintain homeostasis.,,,,,,True,Critical systems.
+Homeostasis,Medium,True/False,Every disease involves failure of homeostasis.,,,,,,True,Loss of stability.
+Homeostasis,Medium,Fill-in-the-Blank,Homeostasis requires detecting _______ changes.,,,,,,physiological|Physiological,Internal changes.
+Homeostasis,Medium,Multiple Choice,Dynamic steady state means:,Never changes,Constantly changes but compensated,Random changes,Only external changes,,B,Active compensation.
+Homeostasis,Medium,True/False,Nervous and endocrine maintain homeostasis.,,,,,,True,Critical systems.
+Homeostasis,Hard,Multiple Choice,Why dynamic?,Only during activity,Continuous adjustments needed,Changes daily,Conscious control,,B,Constant fluctuation.
+Homeostasis,Hard,Fill-in-the-Blank,Health requires regulating _______ variables.,,,,,,multiple|many|Multiple|Many,Many at once.
+Homeostasis,Hard,True/False,Multiple players may control one mechanism.,,,,,,True,Complex regulation.
+Homeostasis,Hard,Multiple Choice,Why dynamic?,Only during activity,Continuous adjustments needed,Changes daily,Conscious control,,B,Constant fluctuation.
+Homeostasis,Hard,Fill-in-the-Blank,Health requires regulating _______ variables.,,,,,,multiple|many|Multiple|Many,Many at once.
+Homeostasis,Hard,True/False,Multiple players may control one mechanism.,,,,,,True,Complex regulation.
+Homeostasis,Hard,Multiple Choice,Why dynamic?,Only during activity,Continuous adjustments needed,Changes daily,Conscious control,,B,Constant fluctuation.
+Homeostasis,Hard,Fill-in-the-Blank,Health requires regulating _______ variables.,,,,,,multiple|many|Multiple|Many,Many at once.
+Homeostasis,Hard,True/False,Multiple players may control one mechanism.,,,,,,True,Complex regulation.
+Homeostasis,Hard,Multiple Choice,Why dynamic?,Only during activity,Continuous adjustments needed,Changes daily,Conscious control,,B,Constant fluctuation.
+Homeostasis,Hard,Fill-in-the-Blank,Health requires regulating _______ variables.,,,,,,multiple|many|Multiple|Many,Many at once.
+Homeostasis,Hard,True/False,Multiple players may control one mechanism.,,,,,,True,Complex regulation.
+Homeostasis,Hard,Multiple Choice,Why dynamic?,Only during activity,Continuous adjustments needed,Changes daily,Conscious control,,B,Constant fluctuation.
+Homeostasis,Hard,Fill-in-the-Blank,Health requires regulating _______ variables.,,,,,,multiple|many|Multiple|Many,Many at once.
+Homeostasis,Hard,True/False,Multiple players may control one mechanism.,,,,,,True,Complex regulation.
+Homeostasis,Hard,Multiple Choice,Why dynamic?,Only during activity,Continuous adjustments needed,Changes daily,Conscious control,,B,Constant fluctuation.
+Homeostasis,Hard,Fill-in-the-Blank,Health requires regulating _______ variables.,,,,,,multiple|many|Multiple|Many,Many at once.
+Homeostasis,Hard,True/False,Multiple players may control one mechanism.,,,,,,True,Complex regulation.
+Homeostasis,Hard,Multiple Choice,Why dynamic?,Only during activity,Continuous adjustments needed,Changes daily,Conscious control,,B,Constant fluctuation.
+Homeostasis,Hard,Fill-in-the-Blank,Health requires regulating _______ variables.,,,,,,multiple|many|Multiple|Many,Many at once.
+Homeostasis,Hard,True/False,Multiple players may control one mechanism.,,,,,,True,Complex regulation.
+Homeostasis,Hard,Multiple Choice,Why dynamic?,Only during activity,Continuous adjustments needed,Changes daily,Conscious control,,B,Constant fluctuation.
+Homeostasis,Hard,Fill-in-the-Blank,Health requires regulating _______ variables.,,,,,,multiple|many|Multiple|Many,Many at once.
+Homeostasis,Hard,True/False,Multiple players may control one mechanism.,,,,,,True,Complex regulation.
+Homeostasis,Hard,Multiple Choice,Why dynamic?,Only during activity,Continuous adjustments needed,Changes daily,Conscious control,,B,Constant fluctuation.
+Homeostasis,Hard,Fill-in-the-Blank,Health requires regulating _______ variables.,,,,,,multiple|many|Multiple|Many,Many at once.
+Homeostasis,Hard,True/False,Multiple players may control one mechanism.,,,,,,True,Complex regulation.
+Homeostasis,Hard,Multiple Choice,Why dynamic?,Only during activity,Continuous adjustments needed,Changes daily,Conscious control,,B,Constant fluctuation.
+Homeostasis,Hard,Fill-in-the-Blank,Health requires regulating _______ variables.,,,,,,multiple|many|Multiple|Many,Many at once.
+Homeostasis,Hard,True/False,Multiple players may control one mechanism.,,,,,,True,Complex regulation.
+Homeostasis,Hard,Multiple Choice,Why dynamic?,Only during activity,Continuous adjustments needed,Changes daily,Conscious control,,B,Constant fluctuation.
+Homeostasis,Hard,Fill-in-the-Blank,Health requires regulating _______ variables.,,,,,,multiple|many|Multiple|Many,Many at once.
+Homeostasis,Hard,True/False,Multiple players may control one mechanism.,,,,,,True,Complex regulation.
+Homeostasis,Hard,Multiple Choice,Why dynamic?,Only during activity,Continuous adjustments needed,Changes daily,Conscious control,,B,Constant fluctuation.
+Homeostasis,Hard,Fill-in-the-Blank,Health requires regulating _______ variables.,,,,,,multiple|many|Multiple|Many,Many at once.
+Homeostasis,Hard,True/False,Multiple players may control one mechanism.,,,,,,True,Complex regulation.
+Homeostasis,Hard,Multiple Choice,Why dynamic?,Only during activity,Continuous adjustments needed,Changes daily,Conscious control,,B,Constant fluctuation.
+Homeostasis,Hard,Fill-in-the-Blank,Health requires regulating _______ variables.,,,,,,multiple|many|Multiple|Many,Many at once.
+Homeostasis,Hard,True/False,Multiple players may control one mechanism.,,,,,,True,Complex regulation.
+Homeostasis,Hard,Multiple Choice,Why dynamic?,Only during activity,Continuous adjustments needed,Changes daily,Conscious control,,B,Constant fluctuation.
+Homeostasis,Hard,Fill-in-the-Blank,Health requires regulating _______ variables.,,,,,,multiple|many|Multiple|Many,Many at once.
+Homeostasis,Hard,True/False,Multiple players may control one mechanism.,,,,,,True,Complex regulation.
+Homeostasis,Hard,Multiple Choice,Why dynamic?,Only during activity,Continuous adjustments needed,Changes daily,Conscious control,,B,Constant fluctuation.
+Homeostasis,Hard,Fill-in-the-Blank,Health requires regulating _______ variables.,,,,,,multiple|many|Multiple|Many,Many at once.
+Homeostasis,Hard,True/False,Multiple players may control one mechanism.,,,,,,True,Complex regulation.
+Homeostasis,Hard,Multiple Choice,Why dynamic?,Only during activity,Continuous adjustments needed,Changes daily,Conscious control,,B,Constant fluctuation.
+Homeostasis,Hard,Fill-in-the-Blank,Health requires regulating _______ variables.,,,,,,multiple|many|Multiple|Many,Many at once.
+Homeostasis,Hard,True/False,Multiple players may control one mechanism.,,,,,,True,Complex regulation.
+Homeostasis,Hard,Multiple Choice,Why dynamic?,Only during activity,Continuous adjustments needed,Changes daily,Conscious control,,B,Constant fluctuation.
+Homeostasis,Hard,Fill-in-the-Blank,Health requires regulating _______ variables.,,,,,,multiple|many|Multiple|Many,Many at once.
+Homeostasis,Hard,True/False,Multiple players may control one mechanism.,,,,,,True,Complex regulation.
+Homeostasis,Hard,Multiple Choice,Why dynamic?,Only during activity,Continuous adjustments needed,Changes daily,Conscious control,,B,Constant fluctuation.
+Homeostasis,Hard,Fill-in-the-Blank,Health requires regulating _______ variables.,,,,,,multiple|many|Multiple|Many,Many at once.
+Homeostasis,Hard,True/False,Multiple players may control one mechanism.,,,,,,True,Complex regulation.
+Homeostasis,Hard,Multiple Choice,Why dynamic?,Only during activity,Continuous adjustments needed,Changes daily,Conscious control,,B,Constant fluctuation.
+Homeostasis,Hard,Fill-in-the-Blank,Health requires regulating _______ variables.,,,,,,multiple|many|Multiple|Many,Many at once.
+Homeostasis,Hard,True/False,Multiple players may control one mechanism.,,,,,,True,Complex regulation.
+Homeostasis,Hard,Multiple Choice,Why dynamic?,Only during activity,Continuous adjustments needed,Changes daily,Conscious control,,B,Constant fluctuation.
+Homeostasis,Hard,Fill-in-the-Blank,Health requires regulating _______ variables.,,,,,,multiple|many|Multiple|Many,Many at once.
+Homeostasis,Hard,True/False,Multiple players may control one mechanism.,,,,,,True,Complex regulation.
+Homeostasis,Hard,Multiple Choice,Why dynamic?,Only during activity,Continuous adjustments needed,Changes daily,Conscious control,,B,Constant fluctuation.
+Homeostasis,Hard,Fill-in-the-Blank,Health requires regulating _______ variables.,,,,,,multiple|many|Multiple|Many,Many at once.
+Homeostasis,Hard,True/False,Multiple players may control one mechanism.,,,,,,True,Complex regulation.
+Homeostasis,Hard,Multiple Choice,Why dynamic?,Only during activity,Continuous adjustments needed,Changes daily,Conscious control,,B,Constant fluctuation.
+Homeostasis,Hard,Fill-in-the-Blank,Health requires regulating _______ variables.,,,,,,multiple|many|Multiple|Many,Many at once.
+Homeostasis,Hard,True/False,Multiple players may control one mechanism.,,,,,,True,Complex regulation.
+Homeostasis,Hard,Multiple Choice,Why dynamic?,Only during activity,Continuous adjustments needed,Changes daily,Conscious control,,B,Constant fluctuation.
+Homeostasis,Hard,Fill-in-the-Blank,Health requires regulating _______ variables.,,,,,,multiple|many|Multiple|Many,Many at once.
+Homeostasis,Hard,True/False,Multiple players may control one mechanism.,,,,,,True,Complex regulation.
+Homeostasis,Hard,Multiple Choice,Why dynamic?,Only during activity,Continuous adjustments needed,Changes daily,Conscious control,,B,Constant fluctuation.
+Homeostasis,Hard,Fill-in-the-Blank,Health requires regulating _______ variables.,,,,,,multiple|many|Multiple|Many,Many at once.
+Homeostasis,Hard,True/False,Multiple players may control one mechanism.,,,,,,True,Complex regulation.
+Homeostasis,Hard,Multiple Choice,Why dynamic?,Only during activity,Continuous adjustments needed,Changes daily,Conscious control,,B,Constant fluctuation.
+Homeostasis,Hard,Fill-in-the-Blank,Health requires regulating _______ variables.,,,,,,multiple|many|Multiple|Many,Many at once.
+Homeostasis,Hard,True/False,Multiple players may control one mechanism.,,,,,,True,Complex regulation.
+Feedback,Easy,Fill-in-the-Blank,A _______ changes a regulated variable.,,,,,,stimulus|Stimulus,Triggers response.
+Feedback,Easy,True/False,Receptor detects changes.,,,,,,True,Sensing structure.
+Feedback,Easy,Multiple Choice,Integrates inputs?,Receptor,Control center,Effector,Stimulus,,B,Processes information.
+Feedback,Easy,Fill-in-the-Blank,_______ brings about change.,,,,,,effector|Effector,Executes response.
+Feedback,Easy,Fill-in-the-Blank,A _______ changes a regulated variable.,,,,,,stimulus|Stimulus,Triggers response.
+Feedback,Easy,True/False,Receptor detects changes.,,,,,,True,Sensing structure.
+Feedback,Easy,Multiple Choice,Integrates inputs?,Receptor,Control center,Effector,Stimulus,,B,Processes information.
+Feedback,Easy,Fill-in-the-Blank,_______ brings about change.,,,,,,effector|Effector,Executes response.
+Feedback,Easy,Fill-in-the-Blank,A _______ changes a regulated variable.,,,,,,stimulus|Stimulus,Triggers response.
+Feedback,Easy,True/False,Receptor detects changes.,,,,,,True,Sensing structure.
+Feedback,Easy,Multiple Choice,Integrates inputs?,Receptor,Control center,Effector,Stimulus,,B,Processes information.
+Feedback,Easy,Fill-in-the-Blank,_______ brings about change.,,,,,,effector|Effector,Executes response.
+Feedback,Easy,Fill-in-the-Blank,A _______ changes a regulated variable.,,,,,,stimulus|Stimulus,Triggers response.
+Feedback,Easy,True/False,Receptor detects changes.,,,,,,True,Sensing structure.
+Feedback,Easy,Multiple Choice,Integrates inputs?,Receptor,Control center,Effector,Stimulus,,B,Processes information.
+Feedback,Easy,Fill-in-the-Blank,_______ brings about change.,,,,,,effector|Effector,Executes response.
+Feedback,Easy,Fill-in-the-Blank,A _______ changes a regulated variable.,,,,,,stimulus|Stimulus,Triggers response.
+Feedback,Easy,True/False,Receptor detects changes.,,,,,,True,Sensing structure.
+Feedback,Easy,Multiple Choice,Integrates inputs?,Receptor,Control center,Effector,Stimulus,,B,Processes information.
+Feedback,Easy,Fill-in-the-Blank,_______ brings about change.,,,,,,effector|Effector,Executes response.
+Feedback,Easy,Fill-in-the-Blank,A _______ changes a regulated variable.,,,,,,stimulus|Stimulus,Triggers response.
+Feedback,Easy,True/False,Receptor detects changes.,,,,,,True,Sensing structure.
+Feedback,Easy,Multiple Choice,Integrates inputs?,Receptor,Control center,Effector,Stimulus,,B,Processes information.
+Feedback,Easy,Fill-in-the-Blank,_______ brings about change.,,,,,,effector|Effector,Executes response.
+Feedback,Easy,Fill-in-the-Blank,A _______ changes a regulated variable.,,,,,,stimulus|Stimulus,Triggers response.
+Feedback,Easy,True/False,Receptor detects changes.,,,,,,True,Sensing structure.
+Feedback,Easy,Multiple Choice,Integrates inputs?,Receptor,Control center,Effector,Stimulus,,B,Processes information.
+Feedback,Easy,Fill-in-the-Blank,_______ brings about change.,,,,,,effector|Effector,Executes response.
+Feedback,Easy,Fill-in-the-Blank,A _______ changes a regulated variable.,,,,,,stimulus|Stimulus,Triggers response.
+Feedback,Easy,True/False,Receptor detects changes.,,,,,,True,Sensing structure.
+Feedback,Easy,Multiple Choice,Integrates inputs?,Receptor,Control center,Effector,Stimulus,,B,Processes information.
+Feedback,Easy,Fill-in-the-Blank,_______ brings about change.,,,,,,effector|Effector,Executes response.
+Feedback,Easy,Fill-in-the-Blank,A _______ changes a regulated variable.,,,,,,stimulus|Stimulus,Triggers response.
+Feedback,Easy,True/False,Receptor detects changes.,,,,,,True,Sensing structure.
+Feedback,Easy,Multiple Choice,Integrates inputs?,Receptor,Control center,Effector,Stimulus,,B,Processes information.
+Feedback,Easy,Fill-in-the-Blank,_______ brings about change.,,,,,,effector|Effector,Executes response.
+Feedback,Easy,Fill-in-the-Blank,A _______ changes a regulated variable.,,,,,,stimulus|Stimulus,Triggers response.
+Feedback,Easy,True/False,Receptor detects changes.,,,,,,True,Sensing structure.
+Feedback,Easy,Multiple Choice,Integrates inputs?,Receptor,Control center,Effector,Stimulus,,B,Processes information.
+Feedback,Easy,Fill-in-the-Blank,_______ brings about change.,,,,,,effector|Effector,Executes response.
+Feedback,Easy,Fill-in-the-Blank,A _______ changes a regulated variable.,,,,,,stimulus|Stimulus,Triggers response.
+Feedback,Easy,True/False,Receptor detects changes.,,,,,,True,Sensing structure.
+Feedback,Easy,Multiple Choice,Integrates inputs?,Receptor,Control center,Effector,Stimulus,,B,Processes information.
+Feedback,Easy,Fill-in-the-Blank,_______ brings about change.,,,,,,effector|Effector,Executes response.
+Feedback,Easy,Fill-in-the-Blank,A _______ changes a regulated variable.,,,,,,stimulus|Stimulus,Triggers response.
+Feedback,Easy,True/False,Receptor detects changes.,,,,,,True,Sensing structure.
+Feedback,Easy,Multiple Choice,Integrates inputs?,Receptor,Control center,Effector,Stimulus,,B,Processes information.
+Feedback,Easy,Fill-in-the-Blank,_______ brings about change.,,,,,,effector|Effector,Executes response.
+Feedback,Easy,Fill-in-the-Blank,A _______ changes a regulated variable.,,,,,,stimulus|Stimulus,Triggers response.
+Feedback,Easy,True/False,Receptor detects changes.,,,,,,True,Sensing structure.
+Feedback,Easy,Multiple Choice,Integrates inputs?,Receptor,Control center,Effector,Stimulus,,B,Processes information.
+Feedback,Easy,Fill-in-the-Blank,_______ brings about change.,,,,,,effector|Effector,Executes response.
+Feedback,Easy,Fill-in-the-Blank,A _______ changes a regulated variable.,,,,,,stimulus|Stimulus,Triggers response.
+Feedback,Easy,True/False,Receptor detects changes.,,,,,,True,Sensing structure.
+Feedback,Easy,Multiple Choice,Integrates inputs?,Receptor,Control center,Effector,Stimulus,,B,Processes information.
+Feedback,Easy,Fill-in-the-Blank,_______ brings about change.,,,,,,effector|Effector,Executes response.
+Feedback,Easy,Fill-in-the-Blank,A _______ changes a regulated variable.,,,,,,stimulus|Stimulus,Triggers response.
+Feedback,Easy,True/False,Receptor detects changes.,,,,,,True,Sensing structure.
+Feedback,Easy,Multiple Choice,Integrates inputs?,Receptor,Control center,Effector,Stimulus,,B,Processes information.
+Feedback,Easy,Fill-in-the-Blank,_______ brings about change.,,,,,,effector|Effector,Executes response.
+Feedback,Easy,Fill-in-the-Blank,A _______ changes a regulated variable.,,,,,,stimulus|Stimulus,Triggers response.
+Feedback,Easy,True/False,Receptor detects changes.,,,,,,True,Sensing structure.
+Feedback,Easy,Multiple Choice,Integrates inputs?,Receptor,Control center,Effector,Stimulus,,B,Processes information.
+Feedback,Easy,Fill-in-the-Blank,_______ brings about change.,,,,,,effector|Effector,Executes response.
+Feedback,Easy,Fill-in-the-Blank,A _______ changes a regulated variable.,,,,,,stimulus|Stimulus,Triggers response.
+Feedback,Easy,True/False,Receptor detects changes.,,,,,,True,Sensing structure.
+Feedback,Easy,Multiple Choice,Integrates inputs?,Receptor,Control center,Effector,Stimulus,,B,Processes information.
+Feedback,Easy,Fill-in-the-Blank,_______ brings about change.,,,,,,effector|Effector,Executes response.
+Feedback,Easy,Fill-in-the-Blank,A _______ changes a regulated variable.,,,,,,stimulus|Stimulus,Triggers response.
+Feedback,Easy,True/False,Receptor detects changes.,,,,,,True,Sensing structure.
+Feedback,Easy,Multiple Choice,Integrates inputs?,Receptor,Control center,Effector,Stimulus,,B,Processes information.
+Feedback,Easy,Fill-in-the-Blank,_______ brings about change.,,,,,,effector|Effector,Executes response.
+Feedback,Easy,Fill-in-the-Blank,A _______ changes a regulated variable.,,,,,,stimulus|Stimulus,Triggers response.
+Feedback,Easy,True/False,Receptor detects changes.,,,,,,True,Sensing structure.
+Feedback,Easy,Multiple Choice,Integrates inputs?,Receptor,Control center,Effector,Stimulus,,B,Processes information.
+Feedback,Easy,Fill-in-the-Blank,_______ brings about change.,,,,,,effector|Effector,Executes response.
+Feedback,Easy,Fill-in-the-Blank,A _______ changes a regulated variable.,,,,,,stimulus|Stimulus,Triggers response.
+Feedback,Easy,True/False,Receptor detects changes.,,,,,,True,Sensing structure.
+Feedback,Easy,Multiple Choice,Integrates inputs?,Receptor,Control center,Effector,Stimulus,,B,Processes information.
+Feedback,Easy,Fill-in-the-Blank,_______ brings about change.,,,,,,effector|Effector,Executes response.

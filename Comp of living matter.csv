@@ -1,0 +1,501 @@
+Topic,Difficulty,QuestionType,Question,OptionA,OptionB,OptionC,OptionD,MatchingPairs,CorrectAnswer,Explanation
+Elements,Easy,Fill-in-the-Blank,Atoms come together to form _______.,,,,,,molecules|Molecules,Atoms bond to create molecules.
+Elements,Easy,Fill-in-the-Blank,Elements come together to form _______.,,,,,,compounds|Compounds,Elements combine to make compounds.
+Elements,Easy,Multiple Choice,Which element is necessary for respiration and ATP generation?,Carbon,Oxygen,Nitrogen,Hydrogen,,B,Oxygen is essential for cellular respiration.
+Elements,Easy,True/False,Carbon is a building block for all macromolecules.,,,,,,True,"Carbon forms the backbone of DNA, proteins, carbohydrates, and lipids."
+Elements,Easy,Multiple Choice,Calcium plays important roles in:,Respiration only,Bone formation and homeostasis,Only muscle contraction,Only nerve signals,,B,Calcium is critical for bone structure and regulation.
+Elements,Medium,Fill-in-the-Blank,"Potassium, sodium, and chlorine are present in electrically excitable cells such as _______ and _______.",,,,,,muscles and neurons|Muscles and neurons,These ions are essential for electrical signaling.
+Elements,Medium,True/False,Iodine is involved in thyroid hormone synthesis.,,,,,,True,Iodine is a key component of thyroid hormones.
+Elements,Medium,Multiple Choice,Elements are:,Smallest living units,Smallest units of matter with individual properties,Always combined,Only found in organic molecules,,B,Elements are fundamental units with unique properties.
+Elements,Hard,Fill-in-the-Blank,"The most common elements in the human body include oxygen, carbon, hydrogen, nitrogen, calcium, and _______.",,,,,,phosphorus|Phosphorus,These six elements comprise most of body mass.
+Elements,Hard,True/False,All elements are equally abundant in the human body.,,,,,,False,Some elements are much more abundant than others though all have important roles.
+Elements,Easy,Matching,Match each element to its role.,,,,,Oxygen|Carbon|Calcium::Respiration and ATP generation|Building blocks for macromolecules|Bone homeostasis,"Oxygen-Respiration and ATP generation, Carbon-Building blocks for macromolecules, Calcium-Bone homeostasis",Each element has specific physiological roles.
+Elements,Medium,Multiple Choice,Which atoms account for the majority of atoms in the human organism?,Carbon nitrogen oxygen iodine,Carbon nitrogen sodium chlorine,Carbon oxygen calcium potassium,Carbon oxygen hydrogen nitrogen,,D,"C, O, H, and N are the most abundant atoms."
+Elements,Easy,True/False,Sodium and chlorine are involved in electrical excitability.,,,,,,True,These ions generate electrical signals in neurons and muscles.
+Elements,Medium,Fill-in-the-Blank,Elements are the smallest building blocks of _______.,,,,,,life|Life,All living matter is composed of elements.
+Chemical Bonds,Easy,Multiple Choice,Which forms the strongest bond?,Ionic bonds,Covalent bonds,Hydrogen bonds,Van der Waals forces,,B,Covalent bonds with shared electrons are strongest.
+Chemical Bonds,Easy,True/False,Hydrogen bonds are fairly weak bonds.,,,,,,True,Hydrogen bonds are weak compared to covalent and ionic bonds.
+Chemical Bonds,Easy,Fill-in-the-Blank,Ionic bonds form between oppositely _______ molecules.,,,,,,charged|Charged,Attraction between opposite charges creates ionic bonds.
+Chemical Bonds,Easy,Multiple Choice,Covalent bonds are characterized by:,Opposite charges,Shared electrons,Weak attraction,Only in water,,B,Covalent bonds share electrons between atoms.
+Chemical Bonds,Medium,Matching,Match each bond type to its characteristics.,,,,,Ionic bonds|Covalent bonds|Hydrogen bonds::Between oppositely charged molecules|Highly stable bonds with shared electrons|Weak bonds type of electro-attractive force,"Ionic bonds-Between oppositely charged molecules, Covalent bonds-Highly stable bonds with shared electrons, Hydrogen bonds-Weak bonds type of electro-attractive force",Each bond type has distinct properties.
+Chemical Bonds,Medium,True/False,Hydrogen bonds are a type of electro-attractive force.,,,,,,True,Hydrogen bonds form when oppositely charged molecules are pulled together.
+Chemical Bonds,Medium,Fill-in-the-Blank,The strongest type of chemical bond is the _______ bond.,,,,,,covalent|Covalent,Covalent bonds are most stable.
+Chemical Bonds,Medium,Multiple Choice,Electro-attractive forces occur when:,Two molecules repel,Two molecules with opposite charges are pulled together,Electrons are shared equally,Only in gases,,B,Opposite charges attract creating electro-attractive forces.
+Chemical Bonds,Hard,Fill-in-the-Blank,Everything in the body is made of huge networks of atoms held together by chemical _______.,,,,,,bonds|Bonds,Bonds connect atoms to form all body structures.
+Chemical Bonds,Hard,True/False,All chemical bonds have the same strength.,,,,,,False,Bond strengths vary: covalent > ionic > hydrogen bonds.
+Chemical Bonds,Easy,Multiple Choice,Hydrogen bonds are most commonly seen in:,Metals,Water,Gases only,Salts,,B,Water extensively uses hydrogen bonding.
+Chemical Bonds,Medium,True/False,Ionic bonds involve transfer of electrons.,,,,,,True,One atom gives electrons to another creating charged ions.
+Organic vs Inorganic,Easy,Multiple Choice,Inorganic molecules:,Contain many carbons,Do not contain carbon,Are always gases,Cannot form bonds,,B,Inorganic molecules lack carbon.
+Organic vs Inorganic,Easy,True/False,Organic molecules contain many carbons.,,,,,,True,Organic molecules are carbon-based.
+Organic vs Inorganic,Easy,Fill-in-the-Blank,_______ molecules do not have large amounts of carbon.,,,,,,Inorganic|inorganic,Inorganic molecules lack carbon.
+Organic vs Inorganic,Medium,Multiple Choice,Which is an inorganic molecule?,Glucose,Protein,Water,DNA,,C,Water lacks carbon making it inorganic.
+Organic vs Inorganic,Medium,True/False,The human body contains both organic and inorganic molecules.,,,,,,True,Both types are essential for life.
+Organic vs Inorganic,Medium,Fill-in-the-Blank,Molecules that contain many carbons are called _______ molecules.,,,,,,organic|Organic,Carbon-containing molecules are organic.
+Organic vs Inorganic,Hard,Multiple Choice,A famous influencer was found full of inorganic molecules. Is this evidence of poisoning?,Yes definitely poisoning,No inorganic molecules are normal in the body,Only if over 50%,Depends on the specific molecule,,B,Inorganic molecules like water and minerals are normal and essential.
+Organic vs Inorganic,Hard,True/False,All inorganic molecules are toxic.,,,,,,False,Many inorganic molecules like water and minerals are essential.
+Organic vs Inorganic,Easy,Fill-in-the-Blank,What makes a molecule organic? It contains many _______.,,,,,,carbons|carbon|Carbons|Carbon,Carbon content defines organic molecules.
+Water,Easy,True/False,Water is the most important inorganic molecule in the body.,,,,,,True,Water is essential for virtually all body functions.
+Water,Easy,Multiple Choice,Water has a pH of:,5,7,9,14,,B,Water is neutral with pH 7.
+Water,Easy,Fill-in-the-Blank,Polar molecules have _______ charge distribution.,,,,,,unequal|Unequal,Charge is not evenly distributed in polar molecules.
+Water,Easy,True/False,Water is a polar molecule.,,,,,,True,Water has unequal charge distribution.
+Water,Easy,Multiple Choice,Cohesion refers to:,Water dissolving ions,Water molecules resisting pulling apart,Water releasing heat,Water forming gases,,B,Cohesion is the association of water molecules.
+Water,Medium,Fill-in-the-Blank,The distribution of charge across a molecule is called _______.,,,,,,polarity|Polarity,Polarity describes charge distribution.
+Water,Medium,True/False,In water electrons tend to move from hydrogen toward oxygen.,,,,,,True,Oxygen is more electronegative than hydrogen.
+Water,Medium,Multiple Choice,The ability of water to dissolve and separate ions is called:,Cohesion,Polarity,Solvency,Reactivity,,C,Solvency is water's dissolving ability.
+Water,Medium,Fill-in-the-Blank,A solution is a mixture that has the exact same _______ throughout.,,,,,,composition|Composition,Solutions are homogeneous mixtures.
+Water,Medium,True/False,Like dissolves like means water dissolves other polar compounds.,,,,,,True,Polar water dissolves polar substances.
+Water,Hard,Multiple Choice,Hydration spheres:,Are water molecules only,Orient partial charges toward oppositely charged ions,Only form in acidic solutions,Prevent dissolution,,B,Partial negative charges orient toward positive ions and vice versa.
+Water,Hard,Fill-in-the-Blank,Hydration spheres promote _______ of differently charged ions.,,,,,,separation|Separation,Water surrounds and separates ions.
+Water,Hard,True/False,Water can only dissolve ionic compounds.,,,,,,False,Water dissolves many polar compounds not just ionic.
+Water,Easy,Fill-in-the-Blank,In a solution a _______ is dissolved in a _______.,,,,,,solute is dissolved in a solvent|Solute is dissolved in a solvent,Solute dissolves in solvent.
+Water,Easy,Multiple Choice,The solvent is:,Minority of solution,Majority of solution,Always water,The dissolved substance,,B,Solvent is what everything is suspended in.
+Water,Easy,True/False,The solute is the stuff dissolved in the solvent.,,,,,,True,Solutes include ions gases proteins etc.
+Water,Medium,Fill-in-the-Blank,Water has a _______ heat capacity.,,,,,,high|High,Water requires much energy to change temperature.
+Water,Medium,Multiple Choice,Heat capacity is:,Amount of heat in a substance,Energy needed to raise temp of 1g by 1°C,Maximum temperature,Freezing point,,B,Specific definition of heat capacity.
+Water,Medium,True/False,Hydrogen bonding allows water to resist temperature changes.,,,,,,True,H-bonds absorb and redistribute heat.
+Water,Medium,Fill-in-the-Blank,Blood redistributes heat to maintain _______ homeostasis.,,,,,,temperature|Temperature,Circulatory system regulates body temperature.
+Water,Hard,Multiple Choice,When is water's high heat capacity physiologically relevant?,Only in fever,During sweating,Never important,Only in winter,,B,Sweating uses water evaporation to cool the body.
+Water,Hard,True/False,When hydrogen bonds in water break the liquid becomes a gas and releases heat.,,,,,,True,Evaporation requires breaking H-bonds and releases heat.
+Water,Easy,Fill-in-the-Blank,Water is neutral with a pH of _______.,,,,,,7|seven|Seven,pH 7 is neutral.
+Water,Easy,Multiple Choice,Acids are molecules that:,Absorb H+ from solution,Release H+ when dissolved,Have no effect on pH,Are always toxic,,B,Acids increase H+ concentration.
+Water,Easy,True/False,Bases absorb H+ from solution.,,,,,,True,Bases decrease H+ concentration.
+Water,Medium,Fill-in-the-Blank,Acids _______ hydrogen ion levels in solution.,,,,,,increase|Increase,Acids add H+ ions.
+Water,Medium,Multiple Choice,A solution with a high number of free hydrogen ions is best described as:,Basic,Hydrogenated,Neutral,Acidic,,D,High H+ means acidic.
+Water,Medium,True/False,Water's neutral pH allows cellular processes to occur that couldn't in acidic or basic solutions.,,,,,,True,Many cellular reactions require neutral pH.
+Water,Hard,Fill-in-the-Blank,Bases _______ hydrogen ion levels in solution.,,,,,,decrease|Decrease,Bases remove H+ ions.
+Water,Hard,Multiple Choice,Why is pH important?,Affects protein structure,Affects enzyme activity,Affects chemical reactions,All of the above,,D,pH affects many biological processes.
+Reactions,Easy,Multiple Choice,When water is the product of a reaction that joins monomers together this is called:,Hydrolysis,Substitution,Reduction,Dehydration synthesis,,D,Dehydration synthesis removes water to join molecules.
+Reactions,Easy,True/False,Hydrolysis uses water to break chemical bonds.,,,,,,True,Hydrolysis means water-breaking.
+Reactions,Easy,Fill-in-the-Blank,Organic molecules are put together using _______.,,,,,,dehydration synthesis|Dehydration synthesis,Water is removed to build molecules.
+Reactions,Easy,Fill-in-the-Blank,Organic molecules are broken apart using _______.,,,,,,hydrolysis|Hydrolysis,Water breaks bonds.
+Reactions,Medium,Multiple Choice,Dehydration synthesis:,Adds water,Removes water,Requires no water,Only breaks bonds,,B,Water is released as product.
+Reactions,Medium,True/False,Water is used to attach molecules during dehydration synthesis.,,,,,,True,Water is formed when molecules join.
+Reactions,Medium,Fill-in-the-Blank,Water can break the bonds holding _______ together.,,,,,,molecules|Molecules,Hydrolysis breaks molecular bonds.
+Reactions,Hard,Multiple Choice,Which reaction builds polymers?,Hydrolysis,Oxidation,Dehydration synthesis,Reduction,,C,Dehydration synthesis joins monomers into polymers.
+Reactions,Hard,True/False,Hydrolysis and dehydration synthesis are opposite reactions.,,,,,,True,One builds molecules one breaks them.
+Carbon,Easy,Multiple Choice,Carbon can bond with how many other atoms?,2,3,4,5,,C,Carbon forms four bonds.
+Carbon,Easy,True/False,Carbon is the ideal central atom for building macromolecules.,,,,,,True,Carbon's bonding versatility makes it ideal.
+Carbon,Easy,Fill-in-the-Blank,Carbon can form single double and _______ bonds.,,,,,,triple|Triple,Carbon has versatile bonding options.
+Carbon,Medium,Multiple Choice,If carbon has at least one double or triple bond it is:,Saturated,Unsaturated,Inorganic,Ionized,,B,Unsaturation means double/triple bonds present.
+Carbon,Medium,True/False,Carbons can link together in chains.,,,,,,True,Carbon forms long chains and rings.
+Carbon,Medium,Fill-in-the-Blank,Chemical properties of carbon chains are determined by the _______ of the chain and the functional groups.,,,,,,length|Length,Both length and groups matter.
+Carbon,Hard,Fill-in-the-Blank,Types of bonds that carbon can form include: _______.,,,,,,single double and triple|covalent|Single double and triple|Covalent,Carbon is versatile in bonding.
+Carbon,Hard,True/False,Carbon can only form straight chains.,,,,,,False,Carbon forms chains rings and branched structures.
+Carbon,Easy,Multiple Choice,Shapes linked carbons can form include:,Only linear,Linear and branched,Linear branched and rings,Only rings,,C,Carbon is very versatile in shape.
+Carbon,Medium,Fill-in-the-Blank,Classification of macromolecules depends on atoms within the molecule and the associated _______ groups.,,,,,,functional|Functional,Functional groups determine properties.
+Carbohydrates,Easy,True/False,Carbohydrates are composed of sugar rings.,,,,,,True,Sugar rings are carbohydrate building blocks.
+Carbohydrates,Easy,Fill-in-the-Blank,Carbohydrates have the general formula (CH2O)n where n is the number of times the formula is _______.,,,,,,repeated|Repeated,n indicates repetition.
+Carbohydrates,Easy,Multiple Choice,Monosaccharides have how many rings?,One,Two,Three,Many,,A,Mono means one.
+Carbohydrates,Easy,True/False,Carbohydrates are polar and usually water soluble.,,,,,,True,Polarity makes them dissolve in water.
+Carbohydrates,Easy,Fill-in-the-Blank,Monosaccharides are also called _______ sugars.,,,,,,simple|Simple,Single ring sugars are simple.
+Carbohydrates,Easy,True/False,Carbohydrates are composed of sugar rings.,,,,,,True,Sugar rings are carbohydrate building blocks.
+Carbohydrates,Easy,Fill-in-the-Blank,Carbohydrates have the general formula (CH2O)n where n is the number of times the formula is _______.,,,,,,repeated|Repeated,n indicates repetition.
+Carbohydrates,Easy,Multiple Choice,Monosaccharides have how many rings?,One,Two,Three,Many,,A,Mono means one.
+Carbohydrates,Easy,True/False,Carbohydrates are polar and usually water soluble.,,,,,,True,Polarity makes them dissolve in water.
+Carbohydrates,Easy,Fill-in-the-Blank,Monosaccharides are also called _______ sugars.,,,,,,simple|Simple,Single ring sugars are simple.
+Carbohydrates,Easy,True/False,Carbohydrates are composed of sugar rings.,,,,,,True,Sugar rings are carbohydrate building blocks.
+Carbohydrates,Easy,Fill-in-the-Blank,Carbohydrates have the general formula (CH2O)n where n is the number of times the formula is _______.,,,,,,repeated|Repeated,n indicates repetition.
+Carbohydrates,Easy,Multiple Choice,Monosaccharides have how many rings?,One,Two,Three,Many,,A,Mono means one.
+Carbohydrates,Easy,True/False,Carbohydrates are polar and usually water soluble.,,,,,,True,Polarity makes them dissolve in water.
+Carbohydrates,Easy,Fill-in-the-Blank,Monosaccharides are also called _______ sugars.,,,,,,simple|Simple,Single ring sugars are simple.
+Carbohydrates,Easy,True/False,Carbohydrates are composed of sugar rings.,,,,,,True,Sugar rings are carbohydrate building blocks.
+Carbohydrates,Easy,Fill-in-the-Blank,Carbohydrates have the general formula (CH2O)n where n is the number of times the formula is _______.,,,,,,repeated|Repeated,n indicates repetition.
+Carbohydrates,Easy,Multiple Choice,Monosaccharides have how many rings?,One,Two,Three,Many,,A,Mono means one.
+Carbohydrates,Easy,True/False,Carbohydrates are polar and usually water soluble.,,,,,,True,Polarity makes them dissolve in water.
+Carbohydrates,Easy,Fill-in-the-Blank,Monosaccharides are also called _______ sugars.,,,,,,simple|Simple,Single ring sugars are simple.
+Carbohydrates,Easy,True/False,Carbohydrates are composed of sugar rings.,,,,,,True,Sugar rings are carbohydrate building blocks.
+Carbohydrates,Easy,Fill-in-the-Blank,Carbohydrates have the general formula (CH2O)n where n is the number of times the formula is _______.,,,,,,repeated|Repeated,n indicates repetition.
+Carbohydrates,Easy,Multiple Choice,Monosaccharides have how many rings?,One,Two,Three,Many,,A,Mono means one.
+Carbohydrates,Easy,True/False,Carbohydrates are polar and usually water soluble.,,,,,,True,Polarity makes them dissolve in water.
+Carbohydrates,Easy,Fill-in-the-Blank,Monosaccharides are also called _______ sugars.,,,,,,simple|Simple,Single ring sugars are simple.
+Carbohydrates,Easy,True/False,Carbohydrates are composed of sugar rings.,,,,,,True,Sugar rings are carbohydrate building blocks.
+Carbohydrates,Easy,Fill-in-the-Blank,Carbohydrates have the general formula (CH2O)n where n is the number of times the formula is _______.,,,,,,repeated|Repeated,n indicates repetition.
+Carbohydrates,Easy,Multiple Choice,Monosaccharides have how many rings?,One,Two,Three,Many,,A,Mono means one.
+Carbohydrates,Easy,True/False,Carbohydrates are polar and usually water soluble.,,,,,,True,Polarity makes them dissolve in water.
+Carbohydrates,Easy,Fill-in-the-Blank,Monosaccharides are also called _______ sugars.,,,,,,simple|Simple,Single ring sugars are simple.
+Carbohydrates,Easy,True/False,Carbohydrates are composed of sugar rings.,,,,,,True,Sugar rings are carbohydrate building blocks.
+Carbohydrates,Easy,Fill-in-the-Blank,Carbohydrates have the general formula (CH2O)n where n is the number of times the formula is _______.,,,,,,repeated|Repeated,n indicates repetition.
+Carbohydrates,Easy,Multiple Choice,Monosaccharides have how many rings?,One,Two,Three,Many,,A,Mono means one.
+Carbohydrates,Easy,True/False,Carbohydrates are polar and usually water soluble.,,,,,,True,Polarity makes them dissolve in water.
+Carbohydrates,Easy,Fill-in-the-Blank,Monosaccharides are also called _______ sugars.,,,,,,simple|Simple,Single ring sugars are simple.
+Carbohydrates,Easy,True/False,Carbohydrates are composed of sugar rings.,,,,,,True,Sugar rings are carbohydrate building blocks.
+Carbohydrates,Easy,Fill-in-the-Blank,Carbohydrates have the general formula (CH2O)n where n is the number of times the formula is _______.,,,,,,repeated|Repeated,n indicates repetition.
+Carbohydrates,Easy,Multiple Choice,Monosaccharides have how many rings?,One,Two,Three,Many,,A,Mono means one.
+Carbohydrates,Easy,True/False,Carbohydrates are polar and usually water soluble.,,,,,,True,Polarity makes them dissolve in water.
+Carbohydrates,Easy,Fill-in-the-Blank,Monosaccharides are also called _______ sugars.,,,,,,simple|Simple,Single ring sugars are simple.
+Carbohydrates,Easy,True/False,Carbohydrates are composed of sugar rings.,,,,,,True,Sugar rings are carbohydrate building blocks.
+Carbohydrates,Easy,Fill-in-the-Blank,Carbohydrates have the general formula (CH2O)n where n is the number of times the formula is _______.,,,,,,repeated|Repeated,n indicates repetition.
+Carbohydrates,Easy,Multiple Choice,Monosaccharides have how many rings?,One,Two,Three,Many,,A,Mono means one.
+Carbohydrates,Easy,True/False,Carbohydrates are polar and usually water soluble.,,,,,,True,Polarity makes them dissolve in water.
+Carbohydrates,Easy,Fill-in-the-Blank,Monosaccharides are also called _______ sugars.,,,,,,simple|Simple,Single ring sugars are simple.
+Carbohydrates,Easy,True/False,Carbohydrates are composed of sugar rings.,,,,,,True,Sugar rings are carbohydrate building blocks.
+Carbohydrates,Easy,Fill-in-the-Blank,Carbohydrates have the general formula (CH2O)n where n is the number of times the formula is _______.,,,,,,repeated|Repeated,n indicates repetition.
+Carbohydrates,Easy,Multiple Choice,Monosaccharides have how many rings?,One,Two,Three,Many,,A,Mono means one.
+Carbohydrates,Easy,True/False,Carbohydrates are polar and usually water soluble.,,,,,,True,Polarity makes them dissolve in water.
+Carbohydrates,Easy,Fill-in-the-Blank,Monosaccharides are also called _______ sugars.,,,,,,simple|Simple,Single ring sugars are simple.
+Carbohydrates,Easy,True/False,Carbohydrates are composed of sugar rings.,,,,,,True,Sugar rings are carbohydrate building blocks.
+Carbohydrates,Easy,Fill-in-the-Blank,Carbohydrates have the general formula (CH2O)n where n is the number of times the formula is _______.,,,,,,repeated|Repeated,n indicates repetition.
+Carbohydrates,Easy,Multiple Choice,Monosaccharides have how many rings?,One,Two,Three,Many,,A,Mono means one.
+Carbohydrates,Easy,True/False,Carbohydrates are polar and usually water soluble.,,,,,,True,Polarity makes them dissolve in water.
+Carbohydrates,Easy,Fill-in-the-Blank,Monosaccharides are also called _______ sugars.,,,,,,simple|Simple,Single ring sugars are simple.
+Carbohydrates,Easy,True/False,Carbohydrates are composed of sugar rings.,,,,,,True,Sugar rings are carbohydrate building blocks.
+Carbohydrates,Easy,Fill-in-the-Blank,Carbohydrates have the general formula (CH2O)n where n is the number of times the formula is _______.,,,,,,repeated|Repeated,n indicates repetition.
+Carbohydrates,Easy,Multiple Choice,Monosaccharides have how many rings?,One,Two,Three,Many,,A,Mono means one.
+Carbohydrates,Easy,True/False,Carbohydrates are polar and usually water soluble.,,,,,,True,Polarity makes them dissolve in water.
+Carbohydrates,Easy,Fill-in-the-Blank,Monosaccharides are also called _______ sugars.,,,,,,simple|Simple,Single ring sugars are simple.
+Carbohydrates,Easy,True/False,Carbohydrates are composed of sugar rings.,,,,,,True,Sugar rings are carbohydrate building blocks.
+Carbohydrates,Easy,Fill-in-the-Blank,Carbohydrates have the general formula (CH2O)n where n is the number of times the formula is _______.,,,,,,repeated|Repeated,n indicates repetition.
+Carbohydrates,Easy,Multiple Choice,Monosaccharides have how many rings?,One,Two,Three,Many,,A,Mono means one.
+Carbohydrates,Easy,True/False,Carbohydrates are polar and usually water soluble.,,,,,,True,Polarity makes them dissolve in water.
+Carbohydrates,Easy,Fill-in-the-Blank,Monosaccharides are also called _______ sugars.,,,,,,simple|Simple,Single ring sugars are simple.
+Carbohydrates,Easy,True/False,Carbohydrates are composed of sugar rings.,,,,,,True,Sugar rings are carbohydrate building blocks.
+Carbohydrates,Easy,Fill-in-the-Blank,Carbohydrates have the general formula (CH2O)n where n is the number of times the formula is _______.,,,,,,repeated|Repeated,n indicates repetition.
+Carbohydrates,Easy,Multiple Choice,Monosaccharides have how many rings?,One,Two,Three,Many,,A,Mono means one.
+Carbohydrates,Easy,True/False,Carbohydrates are polar and usually water soluble.,,,,,,True,Polarity makes them dissolve in water.
+Carbohydrates,Easy,Fill-in-the-Blank,Monosaccharides are also called _______ sugars.,,,,,,simple|Simple,Single ring sugars are simple.
+Carbohydrates,Easy,True/False,Carbohydrates are composed of sugar rings.,,,,,,True,Sugar rings are carbohydrate building blocks.
+Carbohydrates,Easy,Fill-in-the-Blank,Carbohydrates have the general formula (CH2O)n where n is the number of times the formula is _______.,,,,,,repeated|Repeated,n indicates repetition.
+Carbohydrates,Easy,Multiple Choice,Monosaccharides have how many rings?,One,Two,Three,Many,,A,Mono means one.
+Carbohydrates,Easy,True/False,Carbohydrates are polar and usually water soluble.,,,,,,True,Polarity makes them dissolve in water.
+Carbohydrates,Easy,Fill-in-the-Blank,Monosaccharides are also called _______ sugars.,,,,,,simple|Simple,Single ring sugars are simple.
+Carbohydrates,Medium,Multiple Choice,A hexose sugar has how many carbons?,4,5,6,7,,C,Hexose means six carbons.
+Carbohydrates,Medium,Fill-in-the-Blank,A pentose sugar has _______ carbons.,,,,,,5|five|Five,Pentose means five.
+Carbohydrates,Medium,True/False,Glucose is a monosaccharide.,,,,,,True,Glucose is a simple sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed from _______ monosaccharides.,,,,,,2|two|Two,Di means two.
+Carbohydrates,Medium,Multiple Choice,Glucose + Fructose forms:,Lactose,Maltose,Sucrose,Glycogen,,C,Sucrose is table sugar.
+Carbohydrates,Medium,True/False,Lactose is composed of glucose and galactose.,,,,,,True,Lactose is milk sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed via _______ synthesis.,,,,,,dehydration|Dehydration,Water is removed to join sugars.
+Carbohydrates,Medium,Multiple Choice,A hexose sugar has how many carbons?,4,5,6,7,,C,Hexose means six carbons.
+Carbohydrates,Medium,Fill-in-the-Blank,A pentose sugar has _______ carbons.,,,,,,5|five|Five,Pentose means five.
+Carbohydrates,Medium,True/False,Glucose is a monosaccharide.,,,,,,True,Glucose is a simple sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed from _______ monosaccharides.,,,,,,2|two|Two,Di means two.
+Carbohydrates,Medium,Multiple Choice,Glucose + Fructose forms:,Lactose,Maltose,Sucrose,Glycogen,,C,Sucrose is table sugar.
+Carbohydrates,Medium,True/False,Lactose is composed of glucose and galactose.,,,,,,True,Lactose is milk sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed via _______ synthesis.,,,,,,dehydration|Dehydration,Water is removed to join sugars.
+Carbohydrates,Medium,Multiple Choice,A hexose sugar has how many carbons?,4,5,6,7,,C,Hexose means six carbons.
+Carbohydrates,Medium,Fill-in-the-Blank,A pentose sugar has _______ carbons.,,,,,,5|five|Five,Pentose means five.
+Carbohydrates,Medium,True/False,Glucose is a monosaccharide.,,,,,,True,Glucose is a simple sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed from _______ monosaccharides.,,,,,,2|two|Two,Di means two.
+Carbohydrates,Medium,Multiple Choice,Glucose + Fructose forms:,Lactose,Maltose,Sucrose,Glycogen,,C,Sucrose is table sugar.
+Carbohydrates,Medium,True/False,Lactose is composed of glucose and galactose.,,,,,,True,Lactose is milk sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed via _______ synthesis.,,,,,,dehydration|Dehydration,Water is removed to join sugars.
+Carbohydrates,Medium,Multiple Choice,A hexose sugar has how many carbons?,4,5,6,7,,C,Hexose means six carbons.
+Carbohydrates,Medium,Fill-in-the-Blank,A pentose sugar has _______ carbons.,,,,,,5|five|Five,Pentose means five.
+Carbohydrates,Medium,True/False,Glucose is a monosaccharide.,,,,,,True,Glucose is a simple sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed from _______ monosaccharides.,,,,,,2|two|Two,Di means two.
+Carbohydrates,Medium,Multiple Choice,Glucose + Fructose forms:,Lactose,Maltose,Sucrose,Glycogen,,C,Sucrose is table sugar.
+Carbohydrates,Medium,True/False,Lactose is composed of glucose and galactose.,,,,,,True,Lactose is milk sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed via _______ synthesis.,,,,,,dehydration|Dehydration,Water is removed to join sugars.
+Carbohydrates,Medium,Multiple Choice,A hexose sugar has how many carbons?,4,5,6,7,,C,Hexose means six carbons.
+Carbohydrates,Medium,Fill-in-the-Blank,A pentose sugar has _______ carbons.,,,,,,5|five|Five,Pentose means five.
+Carbohydrates,Medium,True/False,Glucose is a monosaccharide.,,,,,,True,Glucose is a simple sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed from _______ monosaccharides.,,,,,,2|two|Two,Di means two.
+Carbohydrates,Medium,Multiple Choice,Glucose + Fructose forms:,Lactose,Maltose,Sucrose,Glycogen,,C,Sucrose is table sugar.
+Carbohydrates,Medium,True/False,Lactose is composed of glucose and galactose.,,,,,,True,Lactose is milk sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed via _______ synthesis.,,,,,,dehydration|Dehydration,Water is removed to join sugars.
+Carbohydrates,Medium,Multiple Choice,A hexose sugar has how many carbons?,4,5,6,7,,C,Hexose means six carbons.
+Carbohydrates,Medium,Fill-in-the-Blank,A pentose sugar has _______ carbons.,,,,,,5|five|Five,Pentose means five.
+Carbohydrates,Medium,True/False,Glucose is a monosaccharide.,,,,,,True,Glucose is a simple sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed from _______ monosaccharides.,,,,,,2|two|Two,Di means two.
+Carbohydrates,Medium,Multiple Choice,Glucose + Fructose forms:,Lactose,Maltose,Sucrose,Glycogen,,C,Sucrose is table sugar.
+Carbohydrates,Medium,True/False,Lactose is composed of glucose and galactose.,,,,,,True,Lactose is milk sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed via _______ synthesis.,,,,,,dehydration|Dehydration,Water is removed to join sugars.
+Carbohydrates,Medium,Multiple Choice,A hexose sugar has how many carbons?,4,5,6,7,,C,Hexose means six carbons.
+Carbohydrates,Medium,Fill-in-the-Blank,A pentose sugar has _______ carbons.,,,,,,5|five|Five,Pentose means five.
+Carbohydrates,Medium,True/False,Glucose is a monosaccharide.,,,,,,True,Glucose is a simple sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed from _______ monosaccharides.,,,,,,2|two|Two,Di means two.
+Carbohydrates,Medium,Multiple Choice,Glucose + Fructose forms:,Lactose,Maltose,Sucrose,Glycogen,,C,Sucrose is table sugar.
+Carbohydrates,Medium,True/False,Lactose is composed of glucose and galactose.,,,,,,True,Lactose is milk sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed via _______ synthesis.,,,,,,dehydration|Dehydration,Water is removed to join sugars.
+Carbohydrates,Medium,Multiple Choice,A hexose sugar has how many carbons?,4,5,6,7,,C,Hexose means six carbons.
+Carbohydrates,Medium,Fill-in-the-Blank,A pentose sugar has _______ carbons.,,,,,,5|five|Five,Pentose means five.
+Carbohydrates,Medium,True/False,Glucose is a monosaccharide.,,,,,,True,Glucose is a simple sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed from _______ monosaccharides.,,,,,,2|two|Two,Di means two.
+Carbohydrates,Medium,Multiple Choice,Glucose + Fructose forms:,Lactose,Maltose,Sucrose,Glycogen,,C,Sucrose is table sugar.
+Carbohydrates,Medium,True/False,Lactose is composed of glucose and galactose.,,,,,,True,Lactose is milk sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed via _______ synthesis.,,,,,,dehydration|Dehydration,Water is removed to join sugars.
+Carbohydrates,Medium,Multiple Choice,A hexose sugar has how many carbons?,4,5,6,7,,C,Hexose means six carbons.
+Carbohydrates,Medium,Fill-in-the-Blank,A pentose sugar has _______ carbons.,,,,,,5|five|Five,Pentose means five.
+Carbohydrates,Medium,True/False,Glucose is a monosaccharide.,,,,,,True,Glucose is a simple sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed from _______ monosaccharides.,,,,,,2|two|Two,Di means two.
+Carbohydrates,Medium,Multiple Choice,Glucose + Fructose forms:,Lactose,Maltose,Sucrose,Glycogen,,C,Sucrose is table sugar.
+Carbohydrates,Medium,True/False,Lactose is composed of glucose and galactose.,,,,,,True,Lactose is milk sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed via _______ synthesis.,,,,,,dehydration|Dehydration,Water is removed to join sugars.
+Carbohydrates,Medium,Multiple Choice,A hexose sugar has how many carbons?,4,5,6,7,,C,Hexose means six carbons.
+Carbohydrates,Medium,Fill-in-the-Blank,A pentose sugar has _______ carbons.,,,,,,5|five|Five,Pentose means five.
+Carbohydrates,Medium,True/False,Glucose is a monosaccharide.,,,,,,True,Glucose is a simple sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed from _______ monosaccharides.,,,,,,2|two|Two,Di means two.
+Carbohydrates,Medium,Multiple Choice,Glucose + Fructose forms:,Lactose,Maltose,Sucrose,Glycogen,,C,Sucrose is table sugar.
+Carbohydrates,Medium,True/False,Lactose is composed of glucose and galactose.,,,,,,True,Lactose is milk sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed via _______ synthesis.,,,,,,dehydration|Dehydration,Water is removed to join sugars.
+Carbohydrates,Medium,Multiple Choice,A hexose sugar has how many carbons?,4,5,6,7,,C,Hexose means six carbons.
+Carbohydrates,Medium,Fill-in-the-Blank,A pentose sugar has _______ carbons.,,,,,,5|five|Five,Pentose means five.
+Carbohydrates,Medium,True/False,Glucose is a monosaccharide.,,,,,,True,Glucose is a simple sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed from _______ monosaccharides.,,,,,,2|two|Two,Di means two.
+Carbohydrates,Medium,Multiple Choice,Glucose + Fructose forms:,Lactose,Maltose,Sucrose,Glycogen,,C,Sucrose is table sugar.
+Carbohydrates,Medium,True/False,Lactose is composed of glucose and galactose.,,,,,,True,Lactose is milk sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed via _______ synthesis.,,,,,,dehydration|Dehydration,Water is removed to join sugars.
+Carbohydrates,Medium,Multiple Choice,A hexose sugar has how many carbons?,4,5,6,7,,C,Hexose means six carbons.
+Carbohydrates,Medium,Fill-in-the-Blank,A pentose sugar has _______ carbons.,,,,,,5|five|Five,Pentose means five.
+Carbohydrates,Medium,True/False,Glucose is a monosaccharide.,,,,,,True,Glucose is a simple sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed from _______ monosaccharides.,,,,,,2|two|Two,Di means two.
+Carbohydrates,Medium,Multiple Choice,Glucose + Fructose forms:,Lactose,Maltose,Sucrose,Glycogen,,C,Sucrose is table sugar.
+Carbohydrates,Medium,True/False,Lactose is composed of glucose and galactose.,,,,,,True,Lactose is milk sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed via _______ synthesis.,,,,,,dehydration|Dehydration,Water is removed to join sugars.
+Carbohydrates,Medium,Multiple Choice,A hexose sugar has how many carbons?,4,5,6,7,,C,Hexose means six carbons.
+Carbohydrates,Medium,Fill-in-the-Blank,A pentose sugar has _______ carbons.,,,,,,5|five|Five,Pentose means five.
+Carbohydrates,Medium,True/False,Glucose is a monosaccharide.,,,,,,True,Glucose is a simple sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed from _______ monosaccharides.,,,,,,2|two|Two,Di means two.
+Carbohydrates,Medium,Multiple Choice,Glucose + Fructose forms:,Lactose,Maltose,Sucrose,Glycogen,,C,Sucrose is table sugar.
+Carbohydrates,Medium,True/False,Lactose is composed of glucose and galactose.,,,,,,True,Lactose is milk sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed via _______ synthesis.,,,,,,dehydration|Dehydration,Water is removed to join sugars.
+Carbohydrates,Medium,Multiple Choice,A hexose sugar has how many carbons?,4,5,6,7,,C,Hexose means six carbons.
+Carbohydrates,Medium,Fill-in-the-Blank,A pentose sugar has _______ carbons.,,,,,,5|five|Five,Pentose means five.
+Carbohydrates,Medium,True/False,Glucose is a monosaccharide.,,,,,,True,Glucose is a simple sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed from _______ monosaccharides.,,,,,,2|two|Two,Di means two.
+Carbohydrates,Medium,Multiple Choice,Glucose + Fructose forms:,Lactose,Maltose,Sucrose,Glycogen,,C,Sucrose is table sugar.
+Carbohydrates,Medium,True/False,Lactose is composed of glucose and galactose.,,,,,,True,Lactose is milk sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed via _______ synthesis.,,,,,,dehydration|Dehydration,Water is removed to join sugars.
+Carbohydrates,Medium,Multiple Choice,A hexose sugar has how many carbons?,4,5,6,7,,C,Hexose means six carbons.
+Carbohydrates,Medium,Fill-in-the-Blank,A pentose sugar has _______ carbons.,,,,,,5|five|Five,Pentose means five.
+Carbohydrates,Medium,True/False,Glucose is a monosaccharide.,,,,,,True,Glucose is a simple sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed from _______ monosaccharides.,,,,,,2|two|Two,Di means two.
+Carbohydrates,Medium,Multiple Choice,Glucose + Fructose forms:,Lactose,Maltose,Sucrose,Glycogen,,C,Sucrose is table sugar.
+Carbohydrates,Medium,True/False,Lactose is composed of glucose and galactose.,,,,,,True,Lactose is milk sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed via _______ synthesis.,,,,,,dehydration|Dehydration,Water is removed to join sugars.
+Carbohydrates,Medium,Multiple Choice,A hexose sugar has how many carbons?,4,5,6,7,,C,Hexose means six carbons.
+Carbohydrates,Medium,Fill-in-the-Blank,A pentose sugar has _______ carbons.,,,,,,5|five|Five,Pentose means five.
+Carbohydrates,Medium,True/False,Glucose is a monosaccharide.,,,,,,True,Glucose is a simple sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed from _______ monosaccharides.,,,,,,2|two|Two,Di means two.
+Carbohydrates,Medium,Multiple Choice,Glucose + Fructose forms:,Lactose,Maltose,Sucrose,Glycogen,,C,Sucrose is table sugar.
+Carbohydrates,Medium,True/False,Lactose is composed of glucose and galactose.,,,,,,True,Lactose is milk sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed via _______ synthesis.,,,,,,dehydration|Dehydration,Water is removed to join sugars.
+Carbohydrates,Medium,Multiple Choice,A hexose sugar has how many carbons?,4,5,6,7,,C,Hexose means six carbons.
+Carbohydrates,Medium,Fill-in-the-Blank,A pentose sugar has _______ carbons.,,,,,,5|five|Five,Pentose means five.
+Carbohydrates,Medium,True/False,Glucose is a monosaccharide.,,,,,,True,Glucose is a simple sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed from _______ monosaccharides.,,,,,,2|two|Two,Di means two.
+Carbohydrates,Medium,Multiple Choice,Glucose + Fructose forms:,Lactose,Maltose,Sucrose,Glycogen,,C,Sucrose is table sugar.
+Carbohydrates,Medium,True/False,Lactose is composed of glucose and galactose.,,,,,,True,Lactose is milk sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed via _______ synthesis.,,,,,,dehydration|Dehydration,Water is removed to join sugars.
+Carbohydrates,Medium,Multiple Choice,A hexose sugar has how many carbons?,4,5,6,7,,C,Hexose means six carbons.
+Carbohydrates,Medium,Fill-in-the-Blank,A pentose sugar has _______ carbons.,,,,,,5|five|Five,Pentose means five.
+Carbohydrates,Medium,True/False,Glucose is a monosaccharide.,,,,,,True,Glucose is a simple sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed from _______ monosaccharides.,,,,,,2|two|Two,Di means two.
+Carbohydrates,Medium,Multiple Choice,Glucose + Fructose forms:,Lactose,Maltose,Sucrose,Glycogen,,C,Sucrose is table sugar.
+Carbohydrates,Medium,True/False,Lactose is composed of glucose and galactose.,,,,,,True,Lactose is milk sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed via _______ synthesis.,,,,,,dehydration|Dehydration,Water is removed to join sugars.
+Carbohydrates,Medium,Multiple Choice,A hexose sugar has how many carbons?,4,5,6,7,,C,Hexose means six carbons.
+Carbohydrates,Medium,Fill-in-the-Blank,A pentose sugar has _______ carbons.,,,,,,5|five|Five,Pentose means five.
+Carbohydrates,Medium,True/False,Glucose is a monosaccharide.,,,,,,True,Glucose is a simple sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed from _______ monosaccharides.,,,,,,2|two|Two,Di means two.
+Carbohydrates,Medium,Multiple Choice,Glucose + Fructose forms:,Lactose,Maltose,Sucrose,Glycogen,,C,Sucrose is table sugar.
+Carbohydrates,Medium,True/False,Lactose is composed of glucose and galactose.,,,,,,True,Lactose is milk sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed via _______ synthesis.,,,,,,dehydration|Dehydration,Water is removed to join sugars.
+Carbohydrates,Medium,Multiple Choice,A hexose sugar has how many carbons?,4,5,6,7,,C,Hexose means six carbons.
+Carbohydrates,Medium,Fill-in-the-Blank,A pentose sugar has _______ carbons.,,,,,,5|five|Five,Pentose means five.
+Carbohydrates,Medium,True/False,Glucose is a monosaccharide.,,,,,,True,Glucose is a simple sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed from _______ monosaccharides.,,,,,,2|two|Two,Di means two.
+Carbohydrates,Medium,Multiple Choice,Glucose + Fructose forms:,Lactose,Maltose,Sucrose,Glycogen,,C,Sucrose is table sugar.
+Carbohydrates,Medium,True/False,Lactose is composed of glucose and galactose.,,,,,,True,Lactose is milk sugar.
+Carbohydrates,Medium,Fill-in-the-Blank,Disaccharides are formed via _______ synthesis.,,,,,,dehydration|Dehydration,Water is removed to join sugars.
+Carbohydrates,Hard,Multiple Choice,When blood sugar drops the branching polysaccharide _______ is broken down.,Starch,Deoxyribose,Glycogen,Cellulose,,C,Glycogen is animal storage polysaccharide.
+Carbohydrates,Hard,Fill-in-the-Blank,_______ is a plant polysaccharide consisting of straight or slightly branched lines of glucose.,,,,,,Starch|starch,Starch stores energy in plants.
+Carbohydrates,Hard,True/False,Glycogen is stored in liver and muscle cells.,,,,,,True,These tissues store glycogen for energy.
+Carbohydrates,Hard,Fill-in-the-Blank,Polysaccharides are complex sugars composed of _______ linked monosaccharides.,,,,,,many|Many,Poly means many.
+Carbohydrates,Hard,Multiple Choice,Glycogen has:,Straight chains,Slightly branched chains,Highly branched chains,No chains,,C,Glycogen is highly branched for quick access.
+Carbohydrates,Hard,Multiple Choice,When blood sugar drops the branching polysaccharide _______ is broken down.,Starch,Deoxyribose,Glycogen,Cellulose,,C,Glycogen is animal storage polysaccharide.
+Carbohydrates,Hard,Fill-in-the-Blank,_______ is a plant polysaccharide consisting of straight or slightly branched lines of glucose.,,,,,,Starch|starch,Starch stores energy in plants.
+Carbohydrates,Hard,True/False,Glycogen is stored in liver and muscle cells.,,,,,,True,These tissues store glycogen for energy.
+Carbohydrates,Hard,Fill-in-the-Blank,Polysaccharides are complex sugars composed of _______ linked monosaccharides.,,,,,,many|Many,Poly means many.
+Carbohydrates,Hard,Multiple Choice,Glycogen has:,Straight chains,Slightly branched chains,Highly branched chains,No chains,,C,Glycogen is highly branched for quick access.
+Carbohydrates,Hard,Multiple Choice,When blood sugar drops the branching polysaccharide _______ is broken down.,Starch,Deoxyribose,Glycogen,Cellulose,,C,Glycogen is animal storage polysaccharide.
+Carbohydrates,Hard,Fill-in-the-Blank,_______ is a plant polysaccharide consisting of straight or slightly branched lines of glucose.,,,,,,Starch|starch,Starch stores energy in plants.
+Carbohydrates,Hard,True/False,Glycogen is stored in liver and muscle cells.,,,,,,True,These tissues store glycogen for energy.
+Carbohydrates,Hard,Fill-in-the-Blank,Polysaccharides are complex sugars composed of _______ linked monosaccharides.,,,,,,many|Many,Poly means many.
+Carbohydrates,Hard,Multiple Choice,Glycogen has:,Straight chains,Slightly branched chains,Highly branched chains,No chains,,C,Glycogen is highly branched for quick access.
+Carbohydrates,Hard,Multiple Choice,When blood sugar drops the branching polysaccharide _______ is broken down.,Starch,Deoxyribose,Glycogen,Cellulose,,C,Glycogen is animal storage polysaccharide.
+Carbohydrates,Hard,Fill-in-the-Blank,_______ is a plant polysaccharide consisting of straight or slightly branched lines of glucose.,,,,,,Starch|starch,Starch stores energy in plants.
+Carbohydrates,Hard,True/False,Glycogen is stored in liver and muscle cells.,,,,,,True,These tissues store glycogen for energy.
+Carbohydrates,Hard,Fill-in-the-Blank,Polysaccharides are complex sugars composed of _______ linked monosaccharides.,,,,,,many|Many,Poly means many.
+Carbohydrates,Hard,Multiple Choice,Glycogen has:,Straight chains,Slightly branched chains,Highly branched chains,No chains,,C,Glycogen is highly branched for quick access.
+Carbohydrates,Hard,Multiple Choice,When blood sugar drops the branching polysaccharide _______ is broken down.,Starch,Deoxyribose,Glycogen,Cellulose,,C,Glycogen is animal storage polysaccharide.
+Carbohydrates,Hard,Fill-in-the-Blank,_______ is a plant polysaccharide consisting of straight or slightly branched lines of glucose.,,,,,,Starch|starch,Starch stores energy in plants.
+Carbohydrates,Hard,True/False,Glycogen is stored in liver and muscle cells.,,,,,,True,These tissues store glycogen for energy.
+Carbohydrates,Hard,Fill-in-the-Blank,Polysaccharides are complex sugars composed of _______ linked monosaccharides.,,,,,,many|Many,Poly means many.
+Carbohydrates,Hard,Multiple Choice,Glycogen has:,Straight chains,Slightly branched chains,Highly branched chains,No chains,,C,Glycogen is highly branched for quick access.
+Carbohydrates,Hard,Multiple Choice,When blood sugar drops the branching polysaccharide _______ is broken down.,Starch,Deoxyribose,Glycogen,Cellulose,,C,Glycogen is animal storage polysaccharide.
+Carbohydrates,Hard,Fill-in-the-Blank,_______ is a plant polysaccharide consisting of straight or slightly branched lines of glucose.,,,,,,Starch|starch,Starch stores energy in plants.
+Carbohydrates,Hard,True/False,Glycogen is stored in liver and muscle cells.,,,,,,True,These tissues store glycogen for energy.
+Carbohydrates,Hard,Fill-in-the-Blank,Polysaccharides are complex sugars composed of _______ linked monosaccharides.,,,,,,many|Many,Poly means many.
+Carbohydrates,Hard,Multiple Choice,Glycogen has:,Straight chains,Slightly branched chains,Highly branched chains,No chains,,C,Glycogen is highly branched for quick access.
+Carbohydrates,Hard,Multiple Choice,When blood sugar drops the branching polysaccharide _______ is broken down.,Starch,Deoxyribose,Glycogen,Cellulose,,C,Glycogen is animal storage polysaccharide.
+Carbohydrates,Hard,Fill-in-the-Blank,_______ is a plant polysaccharide consisting of straight or slightly branched lines of glucose.,,,,,,Starch|starch,Starch stores energy in plants.
+Carbohydrates,Hard,True/False,Glycogen is stored in liver and muscle cells.,,,,,,True,These tissues store glycogen for energy.
+Carbohydrates,Hard,Fill-in-the-Blank,Polysaccharides are complex sugars composed of _______ linked monosaccharides.,,,,,,many|Many,Poly means many.
+Carbohydrates,Hard,Multiple Choice,Glycogen has:,Straight chains,Slightly branched chains,Highly branched chains,No chains,,C,Glycogen is highly branched for quick access.
+Carbohydrates,Hard,Multiple Choice,When blood sugar drops the branching polysaccharide _______ is broken down.,Starch,Deoxyribose,Glycogen,Cellulose,,C,Glycogen is animal storage polysaccharide.
+Carbohydrates,Hard,Fill-in-the-Blank,_______ is a plant polysaccharide consisting of straight or slightly branched lines of glucose.,,,,,,Starch|starch,Starch stores energy in plants.
+Carbohydrates,Hard,True/False,Glycogen is stored in liver and muscle cells.,,,,,,True,These tissues store glycogen for energy.
+Carbohydrates,Hard,Fill-in-the-Blank,Polysaccharides are complex sugars composed of _______ linked monosaccharides.,,,,,,many|Many,Poly means many.
+Carbohydrates,Hard,Multiple Choice,Glycogen has:,Straight chains,Slightly branched chains,Highly branched chains,No chains,,C,Glycogen is highly branched for quick access.
+Carbohydrates,Hard,Multiple Choice,When blood sugar drops the branching polysaccharide _______ is broken down.,Starch,Deoxyribose,Glycogen,Cellulose,,C,Glycogen is animal storage polysaccharide.
+Carbohydrates,Hard,Fill-in-the-Blank,_______ is a plant polysaccharide consisting of straight or slightly branched lines of glucose.,,,,,,Starch|starch,Starch stores energy in plants.
+Carbohydrates,Hard,True/False,Glycogen is stored in liver and muscle cells.,,,,,,True,These tissues store glycogen for energy.
+Carbohydrates,Hard,Fill-in-the-Blank,Polysaccharides are complex sugars composed of _______ linked monosaccharides.,,,,,,many|Many,Poly means many.
+Carbohydrates,Hard,Multiple Choice,Glycogen has:,Straight chains,Slightly branched chains,Highly branched chains,No chains,,C,Glycogen is highly branched for quick access.
+Carbohydrates,Hard,Multiple Choice,When blood sugar drops the branching polysaccharide _______ is broken down.,Starch,Deoxyribose,Glycogen,Cellulose,,C,Glycogen is animal storage polysaccharide.
+Carbohydrates,Hard,Fill-in-the-Blank,_______ is a plant polysaccharide consisting of straight or slightly branched lines of glucose.,,,,,,Starch|starch,Starch stores energy in plants.
+Carbohydrates,Hard,True/False,Glycogen is stored in liver and muscle cells.,,,,,,True,These tissues store glycogen for energy.
+Carbohydrates,Hard,Fill-in-the-Blank,Polysaccharides are complex sugars composed of _______ linked monosaccharides.,,,,,,many|Many,Poly means many.
+Carbohydrates,Hard,Multiple Choice,Glycogen has:,Straight chains,Slightly branched chains,Highly branched chains,No chains,,C,Glycogen is highly branched for quick access.
+Carbohydrates,Hard,Multiple Choice,When blood sugar drops the branching polysaccharide _______ is broken down.,Starch,Deoxyribose,Glycogen,Cellulose,,C,Glycogen is animal storage polysaccharide.
+Carbohydrates,Hard,Fill-in-the-Blank,_______ is a plant polysaccharide consisting of straight or slightly branched lines of glucose.,,,,,,Starch|starch,Starch stores energy in plants.
+Carbohydrates,Hard,True/False,Glycogen is stored in liver and muscle cells.,,,,,,True,These tissues store glycogen for energy.
+Carbohydrates,Hard,Fill-in-the-Blank,Polysaccharides are complex sugars composed of _______ linked monosaccharides.,,,,,,many|Many,Poly means many.
+Carbohydrates,Hard,Multiple Choice,Glycogen has:,Straight chains,Slightly branched chains,Highly branched chains,No chains,,C,Glycogen is highly branched for quick access.
+Carbohydrates,Hard,Multiple Choice,When blood sugar drops the branching polysaccharide _______ is broken down.,Starch,Deoxyribose,Glycogen,Cellulose,,C,Glycogen is animal storage polysaccharide.
+Carbohydrates,Hard,Fill-in-the-Blank,_______ is a plant polysaccharide consisting of straight or slightly branched lines of glucose.,,,,,,Starch|starch,Starch stores energy in plants.
+Carbohydrates,Hard,True/False,Glycogen is stored in liver and muscle cells.,,,,,,True,These tissues store glycogen for energy.
+Carbohydrates,Hard,Fill-in-the-Blank,Polysaccharides are complex sugars composed of _______ linked monosaccharides.,,,,,,many|Many,Poly means many.
+Carbohydrates,Hard,Multiple Choice,Glycogen has:,Straight chains,Slightly branched chains,Highly branched chains,No chains,,C,Glycogen is highly branched for quick access.
+Carbohydrates,Hard,Multiple Choice,When blood sugar drops the branching polysaccharide _______ is broken down.,Starch,Deoxyribose,Glycogen,Cellulose,,C,Glycogen is animal storage polysaccharide.
+Carbohydrates,Hard,Fill-in-the-Blank,_______ is a plant polysaccharide consisting of straight or slightly branched lines of glucose.,,,,,,Starch|starch,Starch stores energy in plants.
+Carbohydrates,Hard,True/False,Glycogen is stored in liver and muscle cells.,,,,,,True,These tissues store glycogen for energy.
+Carbohydrates,Hard,Fill-in-the-Blank,Polysaccharides are complex sugars composed of _______ linked monosaccharides.,,,,,,many|Many,Poly means many.
+Carbohydrates,Hard,Multiple Choice,Glycogen has:,Straight chains,Slightly branched chains,Highly branched chains,No chains,,C,Glycogen is highly branched for quick access.
+Carbohydrates,Hard,Multiple Choice,When blood sugar drops the branching polysaccharide _______ is broken down.,Starch,Deoxyribose,Glycogen,Cellulose,,C,Glycogen is animal storage polysaccharide.
+Carbohydrates,Hard,Fill-in-the-Blank,_______ is a plant polysaccharide consisting of straight or slightly branched lines of glucose.,,,,,,Starch|starch,Starch stores energy in plants.
+Carbohydrates,Hard,True/False,Glycogen is stored in liver and muscle cells.,,,,,,True,These tissues store glycogen for energy.
+Carbohydrates,Hard,Fill-in-the-Blank,Polysaccharides are complex sugars composed of _______ linked monosaccharides.,,,,,,many|Many,Poly means many.
+Carbohydrates,Hard,Multiple Choice,Glycogen has:,Straight chains,Slightly branched chains,Highly branched chains,No chains,,C,Glycogen is highly branched for quick access.
+Carbohydrates,Hard,Multiple Choice,When blood sugar drops the branching polysaccharide _______ is broken down.,Starch,Deoxyribose,Glycogen,Cellulose,,C,Glycogen is animal storage polysaccharide.
+Carbohydrates,Hard,Fill-in-the-Blank,_______ is a plant polysaccharide consisting of straight or slightly branched lines of glucose.,,,,,,Starch|starch,Starch stores energy in plants.
+Carbohydrates,Hard,True/False,Glycogen is stored in liver and muscle cells.,,,,,,True,These tissues store glycogen for energy.
+Carbohydrates,Hard,Fill-in-the-Blank,Polysaccharides are complex sugars composed of _______ linked monosaccharides.,,,,,,many|Many,Poly means many.
+Carbohydrates,Hard,Multiple Choice,Glycogen has:,Straight chains,Slightly branched chains,Highly branched chains,No chains,,C,Glycogen is highly branched for quick access.
+Lipids,Easy,True/False,Lipids are water insoluble.,,,,,,True,Lipids don't dissolve in water.
+Lipids,Easy,Multiple Choice,Hydrophobic molecules:,Love water,Avoid water,Dissolve in water,Are always charged,,B,Hydrophobic means water-fearing.
+Lipids,Easy,Fill-in-the-Blank,Lipids are largely _______ molecules.,,,,,,non-polar|nonpolar|Non-polar,Lipids lack polarity.
+Lipids,Easy,True/False,Lipids are often referred to as fats.,,,,,,True,Fats are lipid molecules.
+Lipids,Easy,Multiple Choice,Lipids provide:,Only energy,Only insulation,Only cell membranes,Energy insulation membranes and signaling,,D,Lipids have many roles.
+Lipids,Easy,True/False,Lipids are water insoluble.,,,,,,True,Lipids don't dissolve in water.
+Lipids,Easy,Multiple Choice,Hydrophobic molecules:,Love water,Avoid water,Dissolve in water,Are always charged,,B,Hydrophobic means water-fearing.
+Lipids,Easy,Fill-in-the-Blank,Lipids are largely _______ molecules.,,,,,,non-polar|nonpolar|Non-polar,Lipids lack polarity.
+Lipids,Easy,True/False,Lipids are often referred to as fats.,,,,,,True,Fats are lipid molecules.
+Lipids,Easy,Multiple Choice,Lipids provide:,Only energy,Only insulation,Only cell membranes,Energy insulation membranes and signaling,,D,Lipids have many roles.
+Lipids,Easy,True/False,Lipids are water insoluble.,,,,,,True,Lipids don't dissolve in water.
+Lipids,Easy,Multiple Choice,Hydrophobic molecules:,Love water,Avoid water,Dissolve in water,Are always charged,,B,Hydrophobic means water-fearing.
+Lipids,Easy,Fill-in-the-Blank,Lipids are largely _______ molecules.,,,,,,non-polar|nonpolar|Non-polar,Lipids lack polarity.
+Lipids,Easy,True/False,Lipids are often referred to as fats.,,,,,,True,Fats are lipid molecules.
+Lipids,Easy,Multiple Choice,Lipids provide:,Only energy,Only insulation,Only cell membranes,Energy insulation membranes and signaling,,D,Lipids have many roles.
+Lipids,Easy,True/False,Lipids are water insoluble.,,,,,,True,Lipids don't dissolve in water.
+Lipids,Easy,Multiple Choice,Hydrophobic molecules:,Love water,Avoid water,Dissolve in water,Are always charged,,B,Hydrophobic means water-fearing.
+Lipids,Easy,Fill-in-the-Blank,Lipids are largely _______ molecules.,,,,,,non-polar|nonpolar|Non-polar,Lipids lack polarity.
+Lipids,Easy,True/False,Lipids are often referred to as fats.,,,,,,True,Fats are lipid molecules.
+Lipids,Easy,Multiple Choice,Lipids provide:,Only energy,Only insulation,Only cell membranes,Energy insulation membranes and signaling,,D,Lipids have many roles.
+Lipids,Easy,True/False,Lipids are water insoluble.,,,,,,True,Lipids don't dissolve in water.
+Lipids,Easy,Multiple Choice,Hydrophobic molecules:,Love water,Avoid water,Dissolve in water,Are always charged,,B,Hydrophobic means water-fearing.
+Lipids,Easy,Fill-in-the-Blank,Lipids are largely _______ molecules.,,,,,,non-polar|nonpolar|Non-polar,Lipids lack polarity.
+Lipids,Easy,True/False,Lipids are often referred to as fats.,,,,,,True,Fats are lipid molecules.
+Lipids,Easy,Multiple Choice,Lipids provide:,Only energy,Only insulation,Only cell membranes,Energy insulation membranes and signaling,,D,Lipids have many roles.
+Lipids,Easy,True/False,Lipids are water insoluble.,,,,,,True,Lipids don't dissolve in water.
+Lipids,Easy,Multiple Choice,Hydrophobic molecules:,Love water,Avoid water,Dissolve in water,Are always charged,,B,Hydrophobic means water-fearing.
+Lipids,Easy,Fill-in-the-Blank,Lipids are largely _______ molecules.,,,,,,non-polar|nonpolar|Non-polar,Lipids lack polarity.
+Lipids,Easy,True/False,Lipids are often referred to as fats.,,,,,,True,Fats are lipid molecules.
+Lipids,Easy,Multiple Choice,Lipids provide:,Only energy,Only insulation,Only cell membranes,Energy insulation membranes and signaling,,D,Lipids have many roles.
+Lipids,Easy,True/False,Lipids are water insoluble.,,,,,,True,Lipids don't dissolve in water.
+Lipids,Easy,Multiple Choice,Hydrophobic molecules:,Love water,Avoid water,Dissolve in water,Are always charged,,B,Hydrophobic means water-fearing.
+Lipids,Easy,Fill-in-the-Blank,Lipids are largely _______ molecules.,,,,,,non-polar|nonpolar|Non-polar,Lipids lack polarity.
+Lipids,Easy,True/False,Lipids are often referred to as fats.,,,,,,True,Fats are lipid molecules.
+Lipids,Easy,Multiple Choice,Lipids provide:,Only energy,Only insulation,Only cell membranes,Energy insulation membranes and signaling,,D,Lipids have many roles.
+Lipids,Easy,True/False,Lipids are water insoluble.,,,,,,True,Lipids don't dissolve in water.
+Lipids,Easy,Multiple Choice,Hydrophobic molecules:,Love water,Avoid water,Dissolve in water,Are always charged,,B,Hydrophobic means water-fearing.
+Lipids,Easy,Fill-in-the-Blank,Lipids are largely _______ molecules.,,,,,,non-polar|nonpolar|Non-polar,Lipids lack polarity.
+Lipids,Easy,True/False,Lipids are often referred to as fats.,,,,,,True,Fats are lipid molecules.
+Lipids,Easy,Multiple Choice,Lipids provide:,Only energy,Only insulation,Only cell membranes,Energy insulation membranes and signaling,,D,Lipids have many roles.
+Lipids,Easy,True/False,Lipids are water insoluble.,,,,,,True,Lipids don't dissolve in water.
+Lipids,Easy,Multiple Choice,Hydrophobic molecules:,Love water,Avoid water,Dissolve in water,Are always charged,,B,Hydrophobic means water-fearing.
+Lipids,Easy,Fill-in-the-Blank,Lipids are largely _______ molecules.,,,,,,non-polar|nonpolar|Non-polar,Lipids lack polarity.
+Lipids,Easy,True/False,Lipids are often referred to as fats.,,,,,,True,Fats are lipid molecules.
+Lipids,Easy,Multiple Choice,Lipids provide:,Only energy,Only insulation,Only cell membranes,Energy insulation membranes and signaling,,D,Lipids have many roles.
+Lipids,Easy,True/False,Lipids are water insoluble.,,,,,,True,Lipids don't dissolve in water.
+Lipids,Easy,Multiple Choice,Hydrophobic molecules:,Love water,Avoid water,Dissolve in water,Are always charged,,B,Hydrophobic means water-fearing.
+Lipids,Easy,Fill-in-the-Blank,Lipids are largely _______ molecules.,,,,,,non-polar|nonpolar|Non-polar,Lipids lack polarity.
+Lipids,Easy,True/False,Lipids are often referred to as fats.,,,,,,True,Fats are lipid molecules.
+Lipids,Easy,Multiple Choice,Lipids provide:,Only energy,Only insulation,Only cell membranes,Energy insulation membranes and signaling,,D,Lipids have many roles.
+Lipids,Easy,True/False,Lipids are water insoluble.,,,,,,True,Lipids don't dissolve in water.
+Lipids,Easy,Multiple Choice,Hydrophobic molecules:,Love water,Avoid water,Dissolve in water,Are always charged,,B,Hydrophobic means water-fearing.
+Lipids,Easy,Fill-in-the-Blank,Lipids are largely _______ molecules.,,,,,,non-polar|nonpolar|Non-polar,Lipids lack polarity.
+Lipids,Easy,True/False,Lipids are often referred to as fats.,,,,,,True,Fats are lipid molecules.
+Lipids,Easy,Multiple Choice,Lipids provide:,Only energy,Only insulation,Only cell membranes,Energy insulation membranes and signaling,,D,Lipids have many roles.
+Lipids,Easy,True/False,Lipids are water insoluble.,,,,,,True,Lipids don't dissolve in water.
+Lipids,Easy,Multiple Choice,Hydrophobic molecules:,Love water,Avoid water,Dissolve in water,Are always charged,,B,Hydrophobic means water-fearing.
+Lipids,Easy,Fill-in-the-Blank,Lipids are largely _______ molecules.,,,,,,non-polar|nonpolar|Non-polar,Lipids lack polarity.
+Lipids,Easy,True/False,Lipids are often referred to as fats.,,,,,,True,Fats are lipid molecules.
+Lipids,Easy,Multiple Choice,Lipids provide:,Only energy,Only insulation,Only cell membranes,Energy insulation membranes and signaling,,D,Lipids have many roles.
+Lipids,Easy,True/False,Lipids are water insoluble.,,,,,,True,Lipids don't dissolve in water.
+Lipids,Easy,Multiple Choice,Hydrophobic molecules:,Love water,Avoid water,Dissolve in water,Are always charged,,B,Hydrophobic means water-fearing.
+Lipids,Easy,Fill-in-the-Blank,Lipids are largely _______ molecules.,,,,,,non-polar|nonpolar|Non-polar,Lipids lack polarity.
+Lipids,Easy,True/False,Lipids are often referred to as fats.,,,,,,True,Fats are lipid molecules.
+Lipids,Easy,Multiple Choice,Lipids provide:,Only energy,Only insulation,Only cell membranes,Energy insulation membranes and signaling,,D,Lipids have many roles.
+Lipids,Easy,True/False,Lipids are water insoluble.,,,,,,True,Lipids don't dissolve in water.
+Lipids,Easy,Multiple Choice,Hydrophobic molecules:,Love water,Avoid water,Dissolve in water,Are always charged,,B,Hydrophobic means water-fearing.
+Lipids,Easy,Fill-in-the-Blank,Lipids are largely _______ molecules.,,,,,,non-polar|nonpolar|Non-polar,Lipids lack polarity.
+Lipids,Easy,True/False,Lipids are often referred to as fats.,,,,,,True,Fats are lipid molecules.
+Lipids,Easy,Multiple Choice,Lipids provide:,Only energy,Only insulation,Only cell membranes,Energy insulation membranes and signaling,,D,Lipids have many roles.
+Lipids,Easy,True/False,Lipids are water insoluble.,,,,,,True,Lipids don't dissolve in water.
+Lipids,Easy,Multiple Choice,Hydrophobic molecules:,Love water,Avoid water,Dissolve in water,Are always charged,,B,Hydrophobic means water-fearing.
+Lipids,Easy,Fill-in-the-Blank,Lipids are largely _______ molecules.,,,,,,non-polar|nonpolar|Non-polar,Lipids lack polarity.
+Lipids,Easy,True/False,Lipids are often referred to as fats.,,,,,,True,Fats are lipid molecules.
+Lipids,Easy,Multiple Choice,Lipids provide:,Only energy,Only insulation,Only cell membranes,Energy insulation membranes and signaling,,D,Lipids have many roles.
+Lipids,Easy,True/False,Lipids are water insoluble.,,,,,,True,Lipids don't dissolve in water.
+Lipids,Easy,Multiple Choice,Hydrophobic molecules:,Love water,Avoid water,Dissolve in water,Are always charged,,B,Hydrophobic means water-fearing.
+Lipids,Easy,Fill-in-the-Blank,Lipids are largely _______ molecules.,,,,,,non-polar|nonpolar|Non-polar,Lipids lack polarity.
+Lipids,Easy,True/False,Lipids are often referred to as fats.,,,,,,True,Fats are lipid molecules.
+Lipids,Easy,Multiple Choice,Lipids provide:,Only energy,Only insulation,Only cell membranes,Energy insulation membranes and signaling,,D,Lipids have many roles.
+Lipids,Easy,True/False,Lipids are water insoluble.,,,,,,True,Lipids don't dissolve in water.
+Lipids,Easy,Multiple Choice,Hydrophobic molecules:,Love water,Avoid water,Dissolve in water,Are always charged,,B,Hydrophobic means water-fearing.
+Lipids,Easy,Fill-in-the-Blank,Lipids are largely _______ molecules.,,,,,,non-polar|nonpolar|Non-polar,Lipids lack polarity.
+Lipids,Easy,True/False,Lipids are often referred to as fats.,,,,,,True,Fats are lipid molecules.
+Lipids,Easy,Multiple Choice,Lipids provide:,Only energy,Only insulation,Only cell membranes,Energy insulation membranes and signaling,,D,Lipids have many roles.
+Lipids,Easy,True/False,Lipids are water insoluble.,,,,,,True,Lipids don't dissolve in water.
+Lipids,Easy,Multiple Choice,Hydrophobic molecules:,Love water,Avoid water,Dissolve in water,Are always charged,,B,Hydrophobic means water-fearing.
+Lipids,Easy,Fill-in-the-Blank,Lipids are largely _______ molecules.,,,,,,non-polar|nonpolar|Non-polar,Lipids lack polarity.
+Lipids,Easy,True/False,Lipids are often referred to as fats.,,,,,,True,Fats are lipid molecules.
+Lipids,Easy,Multiple Choice,Lipids provide:,Only energy,Only insulation,Only cell membranes,Energy insulation membranes and signaling,,D,Lipids have many roles.
+Lipids,Easy,True/False,Lipids are water insoluble.,,,,,,True,Lipids don't dissolve in water.
+Lipids,Easy,Multiple Choice,Hydrophobic molecules:,Love water,Avoid water,Dissolve in water,Are always charged,,B,Hydrophobic means water-fearing.
+Lipids,Easy,Fill-in-the-Blank,Lipids are largely _______ molecules.,,,,,,non-polar|nonpolar|Non-polar,Lipids lack polarity.
+Lipids,Easy,True/False,Lipids are often referred to as fats.,,,,,,True,Fats are lipid molecules.
+Lipids,Easy,Multiple Choice,Lipids provide:,Only energy,Only insulation,Only cell membranes,Energy insulation membranes and signaling,,D,Lipids have many roles.
+Lipids,Easy,True/False,Lipids are water insoluble.,,,,,,True,Lipids don't dissolve in water.
+Lipids,Easy,Multiple Choice,Hydrophobic molecules:,Love water,Avoid water,Dissolve in water,Are always charged,,B,Hydrophobic means water-fearing.
+Lipids,Easy,Fill-in-the-Blank,Lipids are largely _______ molecules.,,,,,,non-polar|nonpolar|Non-polar,Lipids lack polarity.
+Lipids,Easy,True/False,Lipids are often referred to as fats.,,,,,,True,Fats are lipid molecules.
+Lipids,Easy,Multiple Choice,Lipids provide:,Only energy,Only insulation,Only cell membranes,Energy insulation membranes and signaling,,D,Lipids have many roles.
+Lipids,Medium,Fill-in-the-Blank,Triglycerides have _______ fatty acid tails.,,,,,,3|three|Three,Tri means three.
+Lipids,Medium,True/False,Fatty acid tails are very long 14-20 carbons.,,,,,,True,Long hydrocarbon chains.
+Lipids,Medium,Multiple Choice,What is the main job of triglycerides?,Structural only,Energy storage,Signaling only,Making proteins,,B,Triglycerides store energy efficiently.
+Lipids,Medium,Fill-in-the-Blank,Saturated fats are usually _______ at room temperature.,,,,,,solid|Solid,Saturated fats pack tightly.
+Lipids,Medium,True/False,Unsaturated fats are liquids at room temperature.,,,,,,True,Kinks prevent tight packing.
+Lipids,Medium,Multiple Choice,Saturated fats:,Have double bonds,Pack together tightly,Are always liquid,Are always healthy,,B,No kinks allows tight packing.
+Lipids,Medium,Fill-in-the-Blank,Unsaturated fats have _______ in their chains that prevent tight packing.,,,,,,kinks|Kinks,Double bonds create kinks.
+Lipids,Medium,True/False,Phospholipids are modified triglycerides.,,,,,,True,Phospholipids have phosphate groups.
+Lipids,Medium,Fill-in-the-Blank,Amphipathic molecules have portions that can interact with water and portions that _______.,,,,,,cannot|cannot interact with water|Cannot,Both hydrophilic and hydrophobic parts.
+Lipids,Medium,Multiple Choice,Phospholipids form:,DNA,Proteins,Cell membranes,Carbohydrates,,C,Bilayers form membranes.
+Lipids,Medium,True/False,Phospholipid bilayers are the main component of cell membranes.,,,,,,True,Bilayers form membrane structure.
+Lipids,Medium,Fill-in-the-Blank,Triglycerides have _______ fatty acid tails.,,,,,,3|three|Three,Tri means three.
+Lipids,Medium,True/False,Fatty acid tails are very long 14-20 carbons.,,,,,,True,Long hydrocarbon chains.
+Lipids,Medium,Multiple Choice,What is the main job of triglycerides?,Structural only,Energy storage,Signaling only,Making proteins,,B,Triglycerides store energy efficiently.
+Lipids,Medium,Fill-in-the-Blank,Saturated fats are usually _______ at room temperature.,,,,,,solid|Solid,Saturated fats pack tightly.
+Lipids,Medium,True/False,Unsaturated fats are liquids at room temperature.,,,,,,True,Kinks prevent tight packing.
+Lipids,Medium,Multiple Choice,Saturated fats:,Have double bonds,Pack together tightly,Are always liquid,Are always healthy,,B,No kinks allows tight packing.
+Lipids,Medium,Fill-in-the-Blank,Unsaturated fats have _______ in their chains that prevent tight packing.,,,,,,kinks|Kinks,Double bonds create kinks.
+Lipids,Medium,True/False,Phospholipids are modified triglycerides.,,,,,,True,Phospholipids have phosphate groups.
+Lipids,Medium,Fill-in-the-Blank,Amphipathic molecules have portions that can interact with water and portions that _______.,,,,,,cannot|cannot interact with water|Cannot,Both hydrophilic and hydrophobic parts.
+Lipids,Medium,Multiple Choice,Phospholipids form:,DNA,Proteins,Cell membranes,Carbohydrates,,C,Bilayers form membranes.
+Lipids,Medium,True/False,Phospholipid bilayers are the main component of cell membranes.,,,,,,True,Bilayers form membrane structure.
+Lipids,Medium,Fill-in-the-Blank,Triglycerides have _______ fatty acid tails.,,,,,,3|three|Three,Tri means three.
+Lipids,Medium,True/False,Fatty acid tails are very long 14-20 carbons.,,,,,,True,Long hydrocarbon chains.
+Lipids,Medium,Multiple Choice,What is the main job of triglycerides?,Structural only,Energy storage,Signaling only,Making proteins,,B,Triglycerides store energy efficiently.
+Lipids,Medium,Fill-in-the-Blank,Saturated fats are usually _______ at room temperature.,,,,,,solid|Solid,Saturated fats pack tightly.
